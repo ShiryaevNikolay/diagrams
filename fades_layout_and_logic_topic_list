@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T19:09:53.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="s-ml0MMVBti9XFBG0Vl4" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T19:50:54.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="vC-0D7d5adKtVxGlHXPx" version="15.5.6" type="github">
   <diagram id="ZW4i-lWwBKFcsgat7zTk" name="Page-1">
-    <mxGraphModel dx="2500" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,12 +12,6 @@
         </mxCell>
         <mxCell id="KFyQeSUUmij3Im1bQVor-7" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;LearnBloC&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="80" width="130" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="KFyQeSUUmij3Im1bQVor-8" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 14px&quot;&gt;&lt;b&gt;TopicExpansionWidget&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;font-size: 14px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;span&gt;+ handleProgressTopic: void Function(topic: Topic, progress: double)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;font-size: 14px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;+ build(): Widget&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Конструктор &amp;gt;&amp;gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;+ TopicExpansionWidget(handleProgressTopic)&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="520" width="450" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="KFyQeSUUmij3Im1bQVor-9" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;TopicExpansionStore&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;font-size: 14px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;+ field: Type&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;font-size: 14px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;+ method(): Type&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="520" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="KFyQeSUUmij3Im1bQVor-13" value="updateProgressTopic(topic, progress: double)" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=14;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="KFyQeSUUmij3Im1bQVor-1" target="KFyQeSUUmij3Im1bQVor-2">
           <mxGeometry width="80" relative="1" as="geometry">
