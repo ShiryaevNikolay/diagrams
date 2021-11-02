@@ -1,26 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T18:03:39.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="k4hrRgp1qaLYeRp_QvgI" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T18:21:07.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="67TUOB9kRriPudIt-7Jl" version="15.6.5" type="github">
   <diagram id="9d2RoXK69UnaC7xoSkB3" name="Page-1">
-    <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VcvT0qphC9pRDbEFQ06--1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;UserBloc&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ userRepository: UserRepository&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="VcvT0qphC9pRDbEFQ06--1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;UserBloc&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ userRepository: UserRepository&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ on&amp;lt;CloseTestResultSreen&amp;gt;(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="240" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="VcvT0qphC9pRDbEFQ06--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="VcvT0qphC9pRDbEFQ06--2" target="VcvT0qphC9pRDbEFQ06--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VcvT0qphC9pRDbEFQ06--2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;UserEvent&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="560" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="900" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VcvT0qphC9pRDbEFQ06--4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;TestResultScreenStore&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ userBloc: UserBloc&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ @observable closeScreen(): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="60" y="310" width="220" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="VcvT0qphC9pRDbEFQ06--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="VcvT0qphC9pRDbEFQ06--5" target="VcvT0qphC9pRDbEFQ06--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VcvT0qphC9pRDbEFQ06--5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;UserStorage&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- userDateTrackerBox: Box&amp;lt;UserDateTracker&amp;gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getDateTime(): Future&amp;lt;List&amp;lt;UserDateTracker&amp;gt;&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ saveDateTime(userDateTracker: UserDateTracker): Future&amp;lt;void&amp;gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="400" y="680" width="400" height="120" as="geometry" />
+          <mxGeometry x="440" y="680" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VcvT0qphC9pRDbEFQ06--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="VcvT0qphC9pRDbEFQ06--6" target="VcvT0qphC9pRDbEFQ06--1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VcvT0qphC9pRDbEFQ06--6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;UserRepository&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ userStorage: UserStorage&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getLastDateTime(): Future&amp;lt;List&amp;lt;UserDateTracker&amp;gt;&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ saveDateTime(userDateTracker: UserDateTracker): Future&amp;lt;void&amp;gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="400" y="480" width="400" height="120" as="geometry" />
+          <mxGeometry x="440" y="480" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VcvT0qphC9pRDbEFQ06--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="VcvT0qphC9pRDbEFQ06--7" target="VcvT0qphC9pRDbEFQ06--5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VcvT0qphC9pRDbEFQ06--7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;UserDateTracker&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;- date: int&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getDate(): int&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="840" y="720" width="160" height="80" as="geometry" />
+          <mxGeometry x="900" y="700" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VcvT0qphC9pRDbEFQ06--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=default;fillColor=default;strokeColor=default;" edge="1" parent="1" source="VcvT0qphC9pRDbEFQ06--8" target="VcvT0qphC9pRDbEFQ06--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VcvT0qphC9pRDbEFQ06--8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;CloseTestResultSreen&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="880" y="340" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
