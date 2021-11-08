@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T08:58:41.200Z" agent="5.0 (Windows)" etag="37GYPHZbglYgjbaa-e8k" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T09:10:57.265Z" agent="5.0 (Windows)" etag="Hqyhss0rGx5qpmM0h-Lh" version="15.6.8" type="github">
   <diagram id="r8R11DE93iB3vhH_Gn6m" name="Page-1">
-    <mxGraphModel dx="5763" dy="3306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7388" dy="4188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GFjxQB8X3qzK79HojOMt-28" value="FRAGMENTS" style="shape=umlFrame;whiteSpace=wrap;html=1;width=240;height=40;" vertex="1" parent="1">
-          <mxGeometry x="-880" y="-480" width="1680" height="1520" as="geometry" />
+        <mxCell id="GFjxQB8X3qzK79HojOMt-28" value="&lt;div&gt;FRAGMENTS&lt;/div&gt;2h 5m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=240;height=80;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="-520" width="1680" height="1560" as="geometry" />
         </mxCell>
         <mxCell id="GFjxQB8X3qzK79HojOMt-38" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;QpsBanksFragmentView&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="310" width="200" height="90" as="geometry" />
@@ -85,8 +85,8 @@
         <mxCell id="GFjxQB8X3qzK79HojOMt-63" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;MultiplyBanksFragmentConfigurator&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="-280" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GFjxQB8X3qzK79HojOMt-70" value="&lt;div&gt;Activities&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=240;height=40;" vertex="1" parent="1">
-          <mxGeometry x="880" y="-480" width="840" height="1030" as="geometry" />
+        <mxCell id="GFjxQB8X3qzK79HojOMt-70" value="&lt;div&gt;Activities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;55m ~ 1h&lt;br&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=240;height=80;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-520" width="880" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="GFjxQB8X3qzK79HojOMt-71" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;QpsBanksActivityPresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="270" width="240" height="90" as="geometry" />
@@ -132,6 +132,36 @@
         </mxCell>
         <mxCell id="GFjxQB8X3qzK79HojOMt-85" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;MultiplyQpsBanksActivityScreenConfigurator&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="-210" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GFjxQB8X3qzK79HojOMt-87" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="-480" width="600" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="GFjxQB8X3qzK79HojOMt-88" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-120" width="840" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="GFjxQB8X3qzK79HojOMt-89" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="560" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="GFjxQB8X3qzK79HojOMt-90" value="30m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="640" width="680" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="GFjxQB8X3qzK79HojOMt-91" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="300" width="1040" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="GFjxQB8X3qzK79HojOMt-92" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="140" width="440" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GFjxQB8X3qzK79HojOMt-93" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-400" width="680" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="GFjxQB8X3qzK79HojOMt-94" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-40" width="820" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="GFjxQB8X3qzK79HojOMt-95" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="250" width="600" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="GFjxQB8X3qzK79HojOMt-96" value="2h 5m + 1h + 1h(отладка) = 4h 5m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=240;height=40;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="-600" width="2720" height="1720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
