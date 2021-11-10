@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T09:19:03.035Z" agent="5.0 (Windows)" etag="758nANPReYi6LxDqXqUg" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T09:29:47.105Z" agent="5.0 (Windows)" etag="MM6NLtaLdQj3Ztsl7itn" version="15.7.0" type="github">
   <diagram id="CVC5UQzUwzrO2WIwb1ZE" name="Page-1">
-    <mxGraphModel dx="3731" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3735" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-hRkrZRnp3cmWlsL1y4h-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;BannerController&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ &lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="360" width="230" height="90" as="geometry" />
+          <mxGeometry x="-1720" y="360" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-hRkrZRnp3cmWlsL1y4h-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ServerUrls&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="400" height="90" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="-hRkrZRnp3cmWlsL1y4h-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;PersonalOffersInteractor&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ fun sendPersonalOffersFeedback: Single&amp;lt;PersonalOffersFeedback&amp;gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="360" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-hRkrZRnp3cmWlsL1y4h-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;FinancePresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ bm.bannerAction bindTo ::handleBannerAction&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ fun handlePersonalOffersBannerAction(action: Act&amp;lt;Banner&amp;gt;)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ private fun deletePersonalOffersBanner(banner: Banner)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ openPersonalOffersBannerDeleteDialog()&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="360" width="360" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
