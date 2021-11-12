@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T17:27:50.000Z" agent="5.0 (Windows)" etag="z0yTGv36Bst43iopbZqE" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-12T17:32:48.797Z" agent="5.0 (Windows)" etag="9IZM4FeToYyrc_JV2y7Y" version="15.7.3" type="github">
   <diagram id="xYR68J1s75E41UTsU3Sb" name="Page-1">
-    <mxGraphModel dx="2681" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3122" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SkxBmFmoDoxB2sdK75sk-16" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;UserApi&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getTests(): Future&amp;lt;List&amp;lt;TestResponse&amp;gt;&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="960" y="320" width="400" height="100" as="geometry" />
+          <mxGeometry x="960" y="320" width="250" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
