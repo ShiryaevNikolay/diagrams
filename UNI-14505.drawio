@@ -1,20 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T09:22:18.012Z" agent="5.0 (Windows)" etag="j7kh_smSn0Loc4DqbOR_" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T09:26:24.371Z" agent="5.0 (Windows)" etag="ISlNjBu06E1zefb-tm3k" version="15.7.3" type="github">
   <diagram id="gR-Iq4hhyVUKYChUKCiO" name="Page-1">
-    <mxGraphModel dx="981" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5Wr3TJJhSt7KaW0Q5IkL-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ServerUrls&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="250" width="80" height="30" as="geometry" />
+        <mxCell id="5Wr3TJJhSt7KaW0Q5IkL-6" value="i_me2me" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=40;" vertex="1" parent="1">
+          <mxGeometry x="40" width="2800" height="1480" as="geometry" />
         </mxCell>
-        <mxCell id="5Wr3TJJhSt7KaW0Q5IkL-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Class&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="280" width="240" height="90" as="geometry" />
+        <mxCell id="5Wr3TJJhSt7KaW0Q5IkL-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ServerUrls&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5Wr3TJJhSt7KaW0Q5IkL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Wr3TJJhSt7KaW0Q5IkL-3" target="5Wr3TJJhSt7KaW0Q5IkL-1">
+        <mxCell id="5Wr3TJJhSt7KaW0Q5IkL-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Me2MeApi&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ @GET(Me2Me.ME2ME_TRANSACTION)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;fun me2meTransaction(): Single&amp;lt;&amp;gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5Wr3TJJhSt7KaW0Q5IkL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Wr3TJJhSt7KaW0Q5IkL-10" target="5Wr3TJJhSt7KaW0Q5IkL-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Wr3TJJhSt7KaW0Q5IkL-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;object Me2Me&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;div&gt;&amp;nbsp;ME2ME_TRANSACTION = &quot;/payments/phone/me2me/transaction&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp;ME2ME_MODIFY = &quot;/payments/phone/me2me/modify&quot;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="400" height="70" as="geometry" />
+        <mxCell id="5Wr3TJJhSt7KaW0Q5IkL-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;object Me2Me&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;div&gt;&amp;nbsp;ME2ME_TRANSACTION = &quot;/payments/phone/me2me/transaction&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp;ME2ME_MODIFY = &quot;/payments/phone/me2me/modify&quot;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="400" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
