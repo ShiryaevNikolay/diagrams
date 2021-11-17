@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T11:23:18.157Z" agent="5.0 (Windows)" etag="zUw3o35yHR22dh8FdziH" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T11:34:01.932Z" agent="5.0 (Windows)" etag="l99Ly5xcEOeO-eWpDTA1" version="15.7.4" type="github">
   <diagram id="z2JfVTN-OL97uB6Et5IU" name="Page-1">
-    <mxGraphModel dx="1185" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="w7J-pT1NiXdfO_MxbOrN-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;Strings&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;activity_transfer_to_budget_payment_voluntary_rationale_text&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="360" height="90" as="geometry" />
+          <mxGeometry x="80" y="160" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w7J-pT1NiXdfO_MxbOrN-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;PaymentGroundDictionary&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ КЭ&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ &lt;span id=&quot;57cd7ed9-ea10-4960-bb55-2dc279f42bae&quot;&gt;ТЛ&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span id=&quot;57cd7ed9-ea10-4960-bb55-2dc279f42bae&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span id=&quot;57cd7ed9-ea10-4960-bb55-2dc279f42bae&quot;&gt;- &lt;/span&gt;БФ&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;- ТР&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;- ПР&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;- АП&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;- АР&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;- БД&lt;br&gt;- КВ&lt;span id=&quot;57cd7ed9-ea10-4960-bb55-2dc279f42bae&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="w7J-pT1NiXdfO_MxbOrN-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;PaymentGroundDictionaryList&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
