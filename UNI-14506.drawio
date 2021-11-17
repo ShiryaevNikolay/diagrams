@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T07:23:39.996Z" agent="5.0 (Windows)" etag="E4kHoOsBxjlb05eCGHVz" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T07:31:13.011Z" agent="5.0 (Windows)" etag="hJQnO7ZFHa7KMsYWaGC3" version="15.7.4" type="github">
   <diagram id="hNY8Ot3O8GoAVUrFT_j4" name="Page-1">
-    <mxGraphModel dx="2370" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,23 +31,23 @@
         <mxCell id="wGsqCp_JyI2TRbFPw97d-9" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="800" width="300" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="wGsqCp_JyI2TRbFPw97d-10" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="800" width="300" height="200" as="geometry" />
+        <mxCell id="wGsqCp_JyI2TRbFPw97d-10" value="1h 15m + 1h 30m = 2h 50m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=280;height=30;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="40" width="2040" height="920" as="geometry" />
         </mxCell>
-        <mxCell id="wGsqCp_JyI2TRbFPw97d-11" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="200" width="300" height="200" as="geometry" />
+        <mxCell id="wGsqCp_JyI2TRbFPw97d-11" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="80" width="320" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="wGsqCp_JyI2TRbFPw97d-12" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" width="300" height="200" as="geometry" />
+        <mxCell id="wGsqCp_JyI2TRbFPw97d-12" value="30m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="80" width="320" height="840" as="geometry" />
         </mxCell>
-        <mxCell id="wGsqCp_JyI2TRbFPw97d-13" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="400" width="300" height="200" as="geometry" />
+        <mxCell id="wGsqCp_JyI2TRbFPw97d-13" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="80" width="480" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="wGsqCp_JyI2TRbFPw97d-14" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="600" width="300" height="200" as="geometry" />
+        <mxCell id="wGsqCp_JyI2TRbFPw97d-14" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="80" width="400" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="wGsqCp_JyI2TRbFPw97d-15" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="800" width="300" height="200" as="geometry" />
+        <mxCell id="wGsqCp_JyI2TRbFPw97d-15" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="80" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="wGsqCp_JyI2TRbFPw97d-16" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ConsentManagementActivityView&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="120" width="240" height="200" as="geometry" />
