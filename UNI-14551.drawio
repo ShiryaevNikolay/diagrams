@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T12:24:50.740Z" agent="5.0 (Windows)" etag="uTQSBCD6UmnAycutPg2k" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T12:28:52.933Z" agent="5.0 (Windows)" etag="6-QvPgJN9LhxnxoW7pET" version="15.7.4" type="github">
   <diagram id="GZCWCyq-1ln4gcWg8G_8" name="Page-1">
     <mxGraphModel dx="677" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -60,6 +60,30 @@
         </mxCell>
         <mxCell id="FaPX97W4eVH31QEpolnj-20" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;BaseLoanCalculatorFragmentView&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="2200" y="120" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FaPX97W4eVH31QEpolnj-21" value="30m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="260" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="FaPX97W4eVH31QEpolnj-22" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FaPX97W4eVH31QEpolnj-23" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="80" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FaPX97W4eVH31QEpolnj-24" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="80" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FaPX97W4eVH31QEpolnj-25" value="30m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="80" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FaPX97W4eVH31QEpolnj-26" value="30m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="80" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FaPX97W4eVH31QEpolnj-27" value="30m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="80" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FaPX97W4eVH31QEpolnj-28" value="3h+1h 30m = 4h 30m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=160;height=30;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="2040" height="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
