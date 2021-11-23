@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T09:00:00.976Z" agent="5.0 (Windows)" etag="IqFYoUFUDrj2ccLfm_WM" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T09:01:44.767Z" agent="5.0 (Windows)" etag="DeRyASgMYxzClnV90JHi" version="15.8.3" type="github">
   <diagram id="AHUYyGF5CXVSRj4vwZ1q" name="Page-1">
-    <mxGraphModel dx="1185" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="fhfVND5djg5tMZHREXdb-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;DebitCardSettings&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ restrictions: Pair&amp;lt;Boolean, String&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ coedWord: Boolean&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fhfVND5djg5tMZHREXdb-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;CardRepository&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getCardSettings(): Single&amp;lt;DebitCardSettings&amp;gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="280" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
