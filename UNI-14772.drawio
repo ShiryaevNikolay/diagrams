@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T10:56:48.869Z" agent="5.0 (Windows)" etag="6w374rDa-ur7MjJWd22p" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T10:58:33.382Z" agent="5.0 (Windows)" etag="lCFos9b8_8jTb_BFx2DU" version="15.8.6" type="github">
   <diagram id="-LzsaV0KPUQlTKF1Bxdr" name="Page-1">
-    <mxGraphModel dx="981" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,13 +32,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ktKiQP-xmmqzKUIf1xt-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;enum &lt;b&gt;QrDetailsType&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ QRStat: Type&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ QRDyn&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1320" width="160" height="90" as="geometry" />
+          <mxGeometry x="1280" y="1320" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-ktKiQP-xmmqzKUIf1xt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ktKiQP-xmmqzKUIf1xt-10" target="-ktKiQP-xmmqzKUIf1xt-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ktKiQP-xmmqzKUIf1xt-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;QrPayment&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ beneficiaryBankId: String&lt;br&gt;&lt;br&gt;+ beneficiaryBankName: String&lt;br&gt;&lt;br&gt;+ beneficiaryCbAccount: String&lt;br&gt;&lt;br&gt;+ beneficiaryInn: String&lt;br&gt;&lt;br&gt;+ beneficiaryOfficialName: String&lt;br&gt;&lt;br&gt;+ beneficiaryTradeName: String&lt;br&gt;&lt;br&gt;+ businessMessageId: String&lt;br&gt;&lt;br&gt;+ code: String&lt;br&gt;&lt;br&gt;+ description: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="840" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="-ktKiQP-xmmqzKUIf1xt-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;enum QrCode&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ SUCCESS: Type&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ UNKNOWN&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1320" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
