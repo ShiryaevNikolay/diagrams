@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T07:58:37.069Z" agent="5.0 (Windows)" etag="2BvRsp4isBDKbfNZ0S62" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T08:02:39.108Z" agent="5.0 (Windows)" etag="_40FU00N5iFuAzVK3tYJ" version="15.8.6" type="github">
   <diagram id="3n5Tk2W5omYp55VxxU9u" name="Page-1">
-    <mxGraphModel dx="569" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,15 @@
         </mxCell>
         <mxCell id="w4v-N4Ji7vO0rWm960WZ-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;QpsInfo&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ c2bSwitch: Boolean = false&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w4v-N4Ji7vO0rWm960WZ-3" value="5m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="w4v-N4Ji7vO0rWm960WZ-4" value="5m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="w4v-N4Ji7vO0rWm960WZ-5" value="10m + 20m = 30m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=160;height=30;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="520" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
