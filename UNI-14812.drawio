@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T12:11:10.763Z" agent="5.0 (Windows)" etag="fagzOcrwaH2pH5YzxaGm" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-02T12:21:00.002Z" agent="5.0 (Windows)" etag="TxB5pepmL0j1HSgeIzN6" version="15.8.8" type="github">
   <diagram id="9P3tiS8CGJhfXRoLZ4FZ" name="Page-1">
-    <mxGraphModel dx="813" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="569" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,9 @@
         </mxCell>
         <mxCell id="xNK8PiP12i2IxN-B9PWT-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;ProductSelectBottomSheetDialogRoute&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;field1 = value1&lt;br&gt;field2 = value2&lt;br&gt;field3 = value3&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xNK8PiP12i2IxN-B9PWT-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;TransferToBudgetActivityPresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="280" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
