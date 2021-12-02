@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T07:44:22.322Z" agent="5.0 (Windows)" etag="ivMzYOBaMTlQUJNKxgUg" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-02T07:44:29.850Z" agent="5.0 (Windows)" etag="HAoPY4JYZWw_7mSI5LZQ" version="15.8.8" type="github">
   <diagram id="YitEPhutdmLgwl7x3tVX" name="Page-1">
     <mxGraphModel dx="677" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="80" y="80" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="E96wlflOfLN5kJbpFzNU-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ReportsFragmentRoute&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="80" width="320" height="280" as="geometry" />
+          <mxGeometry x="360" y="80" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="E96wlflOfLN5kJbpFzNU-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ReportData&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ class EmptyReportData: ReportData&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="170" width="300" height="180" as="geometry" />
+          <mxGeometry x="370" y="170" width="300" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
