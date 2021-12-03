@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T08:36:40.246Z" agent="5.0 (Windows)" etag="7U9J2bvhkO0GvG2QES7m" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T08:39:19.357Z" agent="5.0 (Windows)" etag="h3LcIHkCZa0dZMF3m5ST" version="15.8.8" type="github">
   <diagram id="9P3tiS8CGJhfXRoLZ4FZ" name="Page-1">
-    <mxGraphModel dx="395" dy="1314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="1632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
         <mxCell id="YJpZfW5sKkHKaJ2JXcpJ-8" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" width="220" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="YJpZfW5sKkHKaJ2JXcpJ-9" value="3h 20m + 1h 40m = 5h" style="shape=umlFrame;whiteSpace=wrap;html=1;width=480;height=30;" vertex="1" parent="1">
+        <mxCell id="YJpZfW5sKkHKaJ2JXcpJ-9" value="3h 20m + 1h 40m = 5h" style="shape=umlFrame;whiteSpace=wrap;html=1;width=160;height=30;" vertex="1" parent="1">
           <mxGeometry y="-40" width="1560" height="880" as="geometry" />
         </mxCell>
       </root>
