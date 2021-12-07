@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T13:53:38.445Z" agent="5.0 (Windows)" etag="0FzwSvtJtZla7Wb1OBSz" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T14:09:04.282Z" agent="5.0 (Windows)" etag="6z2PjWMuNTwUOgrT8DoH" version="15.9.1" type="github">
   <diagram id="mPTwxamNYSwPW7kSz7A5" name="Page-1">
     <mxGraphModel dx="677" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="Rn3kvG91TFD1d-agJmLW-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ServicePaymentDocument&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ const val PAYMENT_DATE_FIELD_ID = &quot;P_DATE&quot;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="280" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn3kvG91TFD1d-agJmLW-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ReportDetailBindModel&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ showDatePickerDialog: (PaymentInputField)&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="320" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
