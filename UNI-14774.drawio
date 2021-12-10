@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T09:13:36.670Z" agent="5.0 (Windows)" etag="rrEIGhDiTGyu61WFmRqv" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T09:45:10.808Z" agent="5.0 (Windows)" etag="xUwi_BIHSEzrBJu3JpMy" version="15.9.1" type="github">
   <diagram id="0NlRjVVHd5YGPN_s32ET" name="Page-1">
-    <mxGraphModel dx="813" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2585" dy="1325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,21 @@
         </mxCell>
         <mxCell id="nEOxowRPshARL98gXEEM-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;QuickPaymentSystemInteractor&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ fun getHistory(&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;businessMessageI: String?&lt;br&gt;type: String?&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="1640" y="120" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nEOxowRPshARL98gXEEM-6" value="5m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="460" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nEOxowRPshARL98gXEEM-7" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="300" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="nEOxowRPshARL98gXEEM-8" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="80" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="nEOxowRPshARL98gXEEM-9" value="5m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="80" width="420" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nEOxowRPshARL98gXEEM-10" value="5m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="80" width="420" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
