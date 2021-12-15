@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T08:41:57.853Z" agent="5.0 (Windows)" etag="CZkt10uwUpPSawkiZ6sG" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T08:42:07.987Z" agent="5.0 (Windows)" etag="0EdYNXmyMDuiP2YywVRf" version="15.9.6" type="github">
   <diagram id="Sy6vJnDHVic9A7IIV_fd" name="Page-1">
-    <mxGraphModel dx="2272" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-80" y="80" width="360" height="680" as="geometry" />
         </mxCell>
         <mxCell id="lQq4pb2lhz19jLaecGec-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;TransferToBudgetActivityView&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="80" width="240" height="40" as="geometry" />
+          <mxGeometry x="-30" y="30" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lQq4pb2lhz19jLaecGec-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;RelativeLayout&lt;br&gt;&lt;/p&gt;&lt;hr&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="160" width="340" height="550" as="geometry" />
