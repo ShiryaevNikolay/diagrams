@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T09:33:17.853Z" agent="5.0 (Windows)" etag="Yl_YasIlX9-idFdJ1IQK" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T09:33:23.861Z" agent="5.0 (Windows)" etag="Oyi5cEcWKRNE7dpUSEfm" version="15.9.6" type="github">
   <diagram id="rl7NRQa01BBlxzyK_3gA" name="Page-1">
-    <mxGraphModel dx="569" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3Vvo0-YoPHcBfBUVZN0i-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;QrScannerActivityPresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ startC2BTransfer() {&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;здесь нужно проверить статус СБП и &lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;показать ошибку, если не подключен&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="200" height="120" as="geometry" />
+          <mxGeometry x="80" y="80" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
