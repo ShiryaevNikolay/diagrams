@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T19:35:18.463Z" agent="5.0 (Windows)" etag="yuZzmOYJHIbjmfQ843XI" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-17T19:35:29.561Z" agent="5.0 (Windows)" etag="xA2mZKncd4cs4DeMVQUB" version="15.9.6" type="github">
   <diagram id="RPymvhG9yVo9L2ZZ0E7i" name="Page-1">
     <mxGraphModel dx="1648" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="80" y="40" width="240" height="360" as="geometry" />
         </mxCell>
         <mxCell id="AbpU-ptf_7mThMzYDW-v-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;QueryParamsParser&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="40" width="360" height="200" as="geometry" />
+          <mxGeometry x="400" y="40" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="AbpU-ptf_7mThMzYDW-v-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;C2BParamsParser : QueryParamsParser&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ queryParamsParser: QueryParamsParser&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ parser(): Map&amp;lt;String, String&amp;gt;&amp;nbsp; {&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;	&lt;/span&gt;return queryParamsParser.parser(uri)...добавить qrId&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="120" width="340" height="110" as="geometry" />
+          <mxGeometry x="410" y="120" width="300" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AbpU-ptf_7mThMzYDW-v-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;QrCodeScannerProcessor&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ parsersWithCheckers = mapOf(&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;C2BQrCodeParser.Checker() to C2BQrCodeParser(&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;C2BParamsParser(URIQueryParamsParser())&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;)&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="40" width="320" height="160" as="geometry" />
