@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-19T16:06:29.802Z" agent="5.0 (Windows)" etag="Lm_9i9XZZcqumBvwlHhA" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-19T16:06:34.131Z" agent="5.0 (Windows)" etag="6-oW1plJH3_0D2iGKiET" version="15.9.6" type="github">
   <diagram id="RPymvhG9yVo9L2ZZ0E7i" name="Page-1">
     <mxGraphModel dx="2035" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="1320" y="40" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Afu46jSsFl7ywug7h1Oa-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;C2BTransferData&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="520" width="400" height="540" as="geometry" />
+          <mxGeometry x="40" y="520" width="180" height="540" as="geometry" />
         </mxCell>
         <mxCell id="Afu46jSsFl7ywug7h1Oa-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;BankItem&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ bank: QpsReceiverBank&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="880" width="160" height="80" as="geometry" />
