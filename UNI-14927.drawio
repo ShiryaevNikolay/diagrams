@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T12:33:46.624Z" agent="5.0 (Windows)" etag="9n9Rj-a1NrdhjX70MY5A" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T12:45:31.690Z" agent="5.0 (Windows)" etag="h415Wyokx3EKqPxtmP5w" version="16.0.0" type="github">
   <diagram id="RPymvhG9yVo9L2ZZ0E7i" name="Page-1">
-    <mxGraphModel dx="2087" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2347" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,6 +45,18 @@
         </mxCell>
         <mxCell id="Urh_jPQenef01IW1Er4p-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;C2BMaxSumConstraint : Constraint&amp;lt;C2BRequisites&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ private val maxBorderConstraint =&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; MoneyMaxConstraint(Money(PAYMENT_MAX_AMOUNT_RUB, Currency.RUB))&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ val maxSum: Money get() = maxBorderConstraint.max&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ isValid() {&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;return value.sum.getOrNull()?.let {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return value.sum.getOrNull()?.let {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return maxBorderConstraint.isValid(it)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; } ?: false&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;}&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ private companion object {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; const val PAYMENT_MAX_AMOUNT_RUB = 600000&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="450" width="500" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Urh_jPQenef01IW1Er4p-7" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=30;" vertex="1" parent="1">
+          <mxGeometry x="-260" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Urh_jPQenef01IW1Er4p-9" value="40m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="480" width="220" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="Urh_jPQenef01IW1Er4p-11" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Urh_jPQenef01IW1Er4p-12" value="50m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" width="560" height="740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
