@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T10:21:41.806Z" agent="5.0 (Windows)" etag="d1Vuu_jgJo_5tS5sqTqR" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T10:23:51.875Z" agent="5.0 (Windows)" etag="lVr35vz8SkdaJJooLOPd" version="16.0.0" type="github">
   <diagram id="RPymvhG9yVo9L2ZZ0E7i" name="Page-1">
-    <mxGraphModel dx="1798" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2204" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="-240" y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="AbpU-ptf_7mThMzYDW-v-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;AccountsInteractor&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getAccountsWithCards(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="40" width="320" height="160" as="geometry" />
+          <mxGeometry x="520" y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Afu46jSsFl7ywug7h1Oa-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;C2BTransferData&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="520" width="180" height="540" as="geometry" />
