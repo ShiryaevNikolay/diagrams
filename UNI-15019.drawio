@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T06:47:39.173Z" agent="5.0 (Windows)" etag="_3SGxS_F1t9gHv0swSeY" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T06:49:34.193Z" agent="5.0 (Windows)" etag="jPnq43RqHhlBffQnIuaF" version="16.0.0" type="github">
   <diagram id="qcU1HG5RzWAc_MuV8xPT" name="Page-1">
-    <mxGraphModel dx="677" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,18 @@
         </mxCell>
         <mxCell id="0zd8dhE5nB0Fk6zoFEQ0-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;QrScannerActivityPresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ quickPaymentSystemInteractor: QuickPaymentSystemInteractor&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="80" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0zd8dhE5nB0Fk6zoFEQ0-5" value="30m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0zd8dhE5nB0Fk6zoFEQ0-6" value="30m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0zd8dhE5nB0Fk6zoFEQ0-7" value="30m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="40" width="440" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0zd8dhE5nB0Fk6zoFEQ0-8" value="1h 30m + 1h 30m = 3h" style="shape=umlFrame;whiteSpace=wrap;html=1;width=200;height=30;" vertex="1" parent="1">
+          <mxGeometry x="40" width="1080" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
