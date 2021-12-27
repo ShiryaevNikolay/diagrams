@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T09:55:02.863Z" agent="5.0 (Windows)" etag="wrbbt5-BBtXhVHzYe6Ui" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T09:58:55.606Z" agent="5.0 (Windows)" etag="b7h0HnqWf1xVUW-B7ZeQ" version="16.0.0" type="github">
   <diagram id="rl7NRQa01BBlxzyK_3gA" name="Page-1">
-    <mxGraphModel dx="813" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="65-vsQtpEmw0uSy0gU8R-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ChangeOperationsConfirmationFragmentView&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="80" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="65-vsQtpEmw0uSy0gU8R-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;OperationsConfirmationInfo&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="80" width="400" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
