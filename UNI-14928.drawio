@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T08:35:29.895Z" agent="5.0 (Windows)" etag="VHOly0JMFLLG9nB8ZzLO" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T08:35:39.535Z" agent="5.0 (Windows)" etag="4QZmhKdy2txROY85X3a3" version="16.0.0" type="github">
   <diagram id="-ZJCyFaX50Rn6FW-T_H7" name="Page-1">
-    <mxGraphModel dx="1663" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3694" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-160" y="80" width="560" height="840" as="geometry" />
         </mxCell>
         <mxCell id="tVQKjD5gCdS9pBwcH8Xz-2" value="preview" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;" parent="1" vertex="1">
-          <mxGeometry x="480" y="80" width="2240" height="320" as="geometry" />
+          <mxGeometry x="480" y="80" width="2240" height="840" as="geometry" />
         </mxCell>
         <mxCell id="tVQKjD5gCdS9pBwcH8Xz-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;PreviewC2BTransferFragmentView&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="120" width="320" height="240" as="geometry" />
