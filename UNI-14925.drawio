@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T10:39:41.568Z" agent="5.0 (Windows)" etag="qi1rkdb3ePQGls3kXI-n" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T10:40:15.108Z" agent="5.0 (Windows)" etag="WRCbGX7LY0sNCiKxRPVI" version="16.1.0" type="github">
   <diagram id="dtNNPIjGnfpnKM4EfALH" name="Page-1">
-    <mxGraphModel dx="1138" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="2141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="7GuGKfg8-Vmtqx_74Q5k-17" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4540" width="320" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="7GuGKfg8-Vmtqx_74Q5k-18" value="10m + 20m + " style="shape=umlFrame;whiteSpace=wrap;html=1;width=880;height=30;" vertex="1" parent="1">
+        <mxCell id="7GuGKfg8-Vmtqx_74Q5k-18" value="10m + 20m + 20m + 20m + 5m + 1h 40m + " style="shape=umlFrame;whiteSpace=wrap;html=1;width=880;height=30;" vertex="1" parent="1">
           <mxGeometry x="840" y="-40" width="4040" height="960" as="geometry" />
         </mxCell>
       </root>
