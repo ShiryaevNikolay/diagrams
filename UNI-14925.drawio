@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T10:52:15.335Z" agent="5.0 (Windows)" etag="H0eLZLvfUhZrKWP5L2jr" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T10:52:51.060Z" agent="5.0 (Windows)" etag="D5bI_bbrgXnp_C8xPVPX" version="16.1.0" type="github">
   <diagram id="dtNNPIjGnfpnKM4EfALH" name="Page-1">
     <mxGraphModel dx="889" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
           <mxGeometry x="840" y="-40" width="4040" height="960" as="geometry" />
         </mxCell>
         <mxCell id="7GuGKfg8-Vmtqx_74Q5k-19" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;C2BTransferActivityPresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ loadData() {&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;if (it == QR_SUBSCRIPTION) {&lt;br&gt;...&lt;br&gt;} else {&lt;br&gt;subscribeIoHandleError(&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;quickPaymentSystemInteractor.getQpsInfo(),&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;{ qpsInfo -&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;if (qpsInfo.c2bSwitch) {&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;...&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;} else {&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;...&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;}&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;}&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;}&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="1000" width="400" height="290" as="geometry" />
+          <mxGeometry x="920" y="1000" width="400" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
