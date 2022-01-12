@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T06:41:28.063Z" agent="5.0 (Windows)" version="16.1.0" etag="o8XBxLUxRsg-ZmuGOl8p" type="github"><diagram id="dtNNPIjGnfpnKM4EfALH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-12T06:44:46.563Z" agent="5.0 (Windows)" etag="8yQZohamciOaafwuofXs" version="16.1.0" type="github">
+  <diagram id="dtNNPIjGnfpnKM4EfALH" name="Page-1">
+    <mxGraphModel dx="981" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L3CYPhSWqcNMOgiigEOy-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;fragment_settings_change_confirmation_type&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;добавить свитчер и шиммер&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="280" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
