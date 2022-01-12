@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T10:54:27.653Z" agent="5.0 (Windows)" etag="a6iQb_DZ8y9Ellz1C3mB" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T10:55:25.813Z" agent="5.0 (Windows)" etag="HagmpozFq79lZWwLn5vr" version="16.1.0" type="github">
   <diagram id="dtNNPIjGnfpnKM4EfALH" name="Page-1">
-    <mxGraphModel dx="1237" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3555" dy="2923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
         <mxCell id="7GuGKfg8-Vmtqx_74Q5k-19" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;C2BTransferActivityPresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ loadData() {&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;if (it == QR_SUBSCRIPTION) {&lt;br&gt;...&lt;br&gt;} else {&lt;br&gt;subscribeIoHandleError(&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;quickPaymentSystemInteractor.getQpsInfo(),&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;{ qpsInfo -&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;if (qpsInfo.c2bSwitch) {&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;requestQrTransferData(route.initialData)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;} else {&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;showMessageError(Ошибка при сканировании QR-кода. Пожалуйста, обратитесь в банк для подключения сервиса СБП)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;finish()&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;}&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;}&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;}&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="1000" width="400" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="7GuGKfg8-Vmtqx_74Q5k-20" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7GuGKfg8-Vmtqx_74Q5k-20" value="1h" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="960" width="440" height="380" as="geometry" />
         </mxCell>
       </root>
