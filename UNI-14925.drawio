@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T10:06:41.116Z" agent="5.0 (Windows)" etag="8Ut7X4L29POD5sNs2aQ9" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T10:38:54.853Z" agent="5.0 (Windows)" etag="php1rjLA2IaKkXuNmjBK" version="16.1.0" type="github">
   <diagram id="dtNNPIjGnfpnKM4EfALH" name="Page-1">
-    <mxGraphModel dx="1046" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2310" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,15 @@
         </mxCell>
         <mxCell id="7GuGKfg8-Vmtqx_74Q5k-14" value="1h 40m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=30;" vertex="1" parent="1">
           <mxGeometry x="2980" width="680" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="7GuGKfg8-Vmtqx_74Q5k-15" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3700" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="7GuGKfg8-Vmtqx_74Q5k-16" value="30m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4220" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7GuGKfg8-Vmtqx_74Q5k-17" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4540" width="320" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
