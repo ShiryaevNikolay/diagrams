@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T12:47:51.198Z" agent="5.0 (Windows)" etag="EpuVDVihUy1U3U7_858l" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T12:50:14.852Z" agent="5.0 (Windows)" etag="1dMpExMhb4FBGB4ZjV7z" version="16.2.6" type="github">
   <diagram id="GAHAo4grmHkLb-Jh6NlL" name="Page-1">
-    <mxGraphModel dx="1422" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="2141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,20 +19,23 @@
         <mxCell id="aZ0t3fHpENvqRnif-zxp-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;f_history:Extensions&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ internal fun Operation.QpsOperation.getDetailsFields() {&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;...&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;}&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ object IncomeQpsDetailHistoryResourceBundle : HistoryQpsDetailResourceBundle() {&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;...&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;}&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ object OutcomeQpsDetailHistoryResourceBundle : HistoryQpsDetailResourceBundle() {&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;...&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="40" width="520" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="aZ0t3fHpENvqRnif-zxp-7" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aZ0t3fHpENvqRnif-zxp-7" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" width="440" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="aZ0t3fHpENvqRnif-zxp-8" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aZ0t3fHpENvqRnif-zxp-8" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" width="360" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="aZ0t3fHpENvqRnif-zxp-9" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aZ0t3fHpENvqRnif-zxp-9" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" width="280" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="aZ0t3fHpENvqRnif-zxp-10" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aZ0t3fHpENvqRnif-zxp-10" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="200" width="280" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="aZ0t3fHpENvqRnif-zxp-11" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aZ0t3fHpENvqRnif-zxp-11" value="40m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" width="560" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="aZ0t3fHpENvqRnif-zxp-12" value="15m+15m+20m+20m+40m = 1h 50m + 1h 20m(отладка) + 1h(ревью) = 4h 10m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=470;height=30;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-40" width="1790" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
