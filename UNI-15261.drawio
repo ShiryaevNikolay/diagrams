@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T09:39:12.426Z" agent="5.0 (Windows)" etag="7DNqOtYGPRXQCz_X38WS" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-04T10:19:30.210Z" agent="5.0 (Windows)" etag="QqiJVhgBmChxsM96igFu" version="16.5.3" type="github">
   <diagram id="FZS-LspY1kVB6EsSSzgE" name="Page-1">
     <mxGraphModel dx="981" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,6 +18,15 @@
         </mxCell>
         <mxCell id="EoWeRwG33imuI-vRMXuL-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ButtonState&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ textRes: Int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ isEnabled: Boolean&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="80" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EoWeRwG33imuI-vRMXuL-7" value="1h" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="320" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="EoWeRwG33imuI-vRMXuL-8" value="1h" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="40" width="240" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="EoWeRwG33imuI-vRMXuL-9" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="40" width="200" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
