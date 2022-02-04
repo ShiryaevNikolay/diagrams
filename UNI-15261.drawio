@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T10:19:30.210Z" agent="5.0 (Windows)" etag="QqiJVhgBmChxsM96igFu" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-04T10:29:35.322Z" agent="5.0 (Windows)" etag="dcoF8Cja-CqF5syx0tG0" version="16.5.3" type="github">
   <diagram id="FZS-LspY1kVB6EsSSzgE" name="Page-1">
-    <mxGraphModel dx="981" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="EoWeRwG33imuI-vRMXuL-9" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="40" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EoWeRwG33imuI-vRMXuL-10" value="2h 10m + 1h (отладка) = 3h 10m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=240;height=30;" vertex="1" parent="1">
+          <mxGeometry x="40" width="880" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
