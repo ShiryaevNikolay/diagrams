@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T07:05:13.601Z" agent="5.0 (Windows)" version="16.5.3" etag="RBlO6_qAoKiZ16Gcj6lX" type="github"><diagram id="3VJANoth9T4Ozcb5BQFa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-07T07:12:32.795Z" agent="5.0 (Windows)" etag="LZfkI26u3OJczACVQ3Hj" version="16.5.3" type="github">
+  <diagram id="3VJANoth9T4Ozcb5BQFa" name="Page-1">
+    <mxGraphModel dx="1422" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="swvmjw_4cvgUV2Ai-KdO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="360" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="swvmjw_4cvgUV2Ai-KdO-4" value="Toolbar" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="swvmjw_4cvgUV2Ai-KdO-5" value="FrameLayout" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="340" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="swvmjw_4cvgUV2Ai-KdO-6" value="ProgressBar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="swvmjw_4cvgUV2Ai-KdO-5">
+          <mxGeometry x="10" y="30" width="320" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="swvmjw_4cvgUV2Ai-KdO-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="360" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="swvmjw_4cvgUV2Ai-KdO-8" value="Toolbar" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="530" y="90" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="swvmjw_4cvgUV2Ai-KdO-9" value="Button" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="530" y="640" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="swvmjw_4cvgUV2Ai-KdO-10" value="FrameLayout" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="530" y="130" width="340" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="swvmjw_4cvgUV2Ai-KdO-11" value="LinearLayout" style="swimlane;" vertex="1" parent="swvmjw_4cvgUV2Ai-KdO-10">
+          <mxGeometry x="10" y="30" width="320" height="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
