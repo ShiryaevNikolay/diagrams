@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T07:15:55.132Z" agent="5.0 (Windows)" etag="g3JOIzhYtKDtuVp74LAk" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-07T07:17:05.840Z" agent="5.0 (Windows)" etag="vacrPH4bv57w166dDWS0" version="16.5.3" type="github">
   <diagram id="3VJANoth9T4Ozcb5BQFa" name="Page-1">
-    <mxGraphModel dx="813" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,10 +32,16 @@
           <mxGeometry x="10" y="30" width="320" height="460" as="geometry" />
         </mxCell>
         <mxCell id="swvmjw_4cvgUV2Ai-KdO-12" value="LinearLayout" style="swimlane;" vertex="1" parent="swvmjw_4cvgUV2Ai-KdO-11">
-          <mxGeometry x="10" y="30" width="300" height="230" as="geometry" />
+          <mxGeometry x="10" y="30" width="300" height="150" as="geometry" />
         </mxCell>
         <mxCell id="swvmjw_4cvgUV2Ai-KdO-13" value="PaymentSourceView" style="swimlane;" vertex="1" parent="swvmjw_4cvgUV2Ai-KdO-12">
           <mxGeometry x="10" y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="swvmjw_4cvgUV2Ai-KdO-14" value="Vertical Container" style="swimlane;" vertex="1" parent="swvmjw_4cvgUV2Ai-KdO-12">
+          <mxGeometry x="10" y="110" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="swvmjw_4cvgUV2Ai-KdO-15" value="TextView" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
