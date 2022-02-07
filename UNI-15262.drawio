@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T07:32:20.512Z" agent="5.0 (Windows)" etag="-YUJD5nCQ4SI7yMjT1aQ" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-07T07:46:45.192Z" agent="5.0 (Windows)" etag="89PXokJ2fOA8HKM02ROR" version="16.5.3" type="github">
   <diagram id="3VJANoth9T4Ozcb5BQFa" name="Page-1">
     <mxGraphModel dx="1185" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,6 +53,9 @@
         </mxCell>
         <mxCell id="swvmjw_4cvgUV2Ai-KdO-15" value="TextView" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="560" y="260" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="swvmjw_4cvgUV2Ai-KdO-17" value="1h + 1h + 1h (отладка) + 1h (ревью) = 4h" style="shape=umlFrame;whiteSpace=wrap;html=1;width=260;height=30;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="840" height="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
