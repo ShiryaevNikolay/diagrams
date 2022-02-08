@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T10:39:40.104Z" agent="5.0 (Windows)" etag="ZYsTx8gOWnMwg1Ecxto7" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-08T10:43:30.972Z" agent="5.0 (Windows)" etag="vQtRAu4enBpoA8DjZREo" version="16.5.3" type="github">
   <diagram id="dYaKm0zOiIkTefgdSqAL" name="Page-1">
-    <mxGraphModel dx="632" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,15 @@
         </mxCell>
         <mxCell id="R8p8swTbhKfgt5eax4jr-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;VisaAliasSettingsBindModel&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ cardsState = State&amp;lt;List&amp;lt;SelectableData&amp;lt;Card&amp;gt;&amp;gt;&amp;gt;()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ phoneState = State&amp;lt;List&amp;lt;SelectableData&amp;lt;PhoneNumber&amp;gt;&amp;gt;&amp;gt;()&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="520" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R8p8swTbhKfgt5eax4jr-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;VisaAliasWarningActivityView&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="80" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R8p8swTbhKfgt5eax4jr-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;VisaAliasWarningActivityPresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="80" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="R8p8swTbhKfgt5eax4jr-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;VisaAliasWarningActivityBindModel&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="240" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
