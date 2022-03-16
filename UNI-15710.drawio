@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T12:47:21.910Z" agent="5.0 (Macintosh)" etag="etOFkL-KTr6ayFhZrSYw" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T13:11:56.989Z" agent="5.0 (Macintosh)" etag="CyLg2HHDTf3yoqznQ0k4" version="17.1.2" type="github">
   <diagram id="P6orFmAGe5Ii_b7BvYmw" name="Page-1">
-    <mxGraphModel dx="1051" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,51 @@
         </mxCell>
         <mxCell id="7kPVL3wSiiriUlEY0Qpc-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ConditionsUiState&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ cutoffTime: Boolean&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7kPVL3wSiiriUlEY0Qpc-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;UnformedIndividualConditionsActivity&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7kPVL3wSiiriUlEY0Qpc-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;UnformedIndividualConditionsActivityRoute&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="640" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7kPVL3wSiiriUlEY0Qpc-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;UnformedIndividualConditionsActivityPresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="640" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7kPVL3wSiiriUlEY0Qpc-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;UnformedIndividualConditionsActivityBindModel&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="480" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7kPVL3wSiiriUlEY0Qpc-11" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="7kPVL3wSiiriUlEY0Qpc-12" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="40" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7kPVL3wSiiriUlEY0Qpc-13" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="200" width="600" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7kPVL3wSiiriUlEY0Qpc-14" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="40" width="480" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="7kPVL3wSiiriUlEY0Qpc-15" value="5m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="360" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7kPVL3wSiiriUlEY0Qpc-16" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="40" width="360" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="7kPVL3wSiiriUlEY0Qpc-17" value="40m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="440" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7kPVL3wSiiriUlEY0Qpc-18" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7kPVL3wSiiriUlEY0Qpc-19" value="30m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7kPVL3wSiiriUlEY0Qpc-20" value="1h" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="600" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7kPVL3wSiiriUlEY0Qpc-21" value="4h + 1h (отладка) = 5h" style="shape=umlFrame;whiteSpace=wrap;html=1;width=840;height=30;" vertex="1" parent="1">
+          <mxGeometry x="40" width="2080" height="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
