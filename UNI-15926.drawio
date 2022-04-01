@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T11:30:08.767Z" agent="5.0 (Macintosh)" version="17.4.0" etag="xJWF1Bym5Zb6rnVYgqH8" type="github"><diagram id="F2cIXI0qztmpp3JYABv5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-01T11:31:25.143Z" agent="5.0 (Macintosh)" etag="6Gxw3euJxiO08Q3PpcQQ" version="17.4.0" type="github">
+  <diagram id="F2cIXI0qztmpp3JYABv5" name="Page-1">
+    <mxGraphModel dx="788" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ljfZ4cZ_r5Jr-hCkHj5f-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;PreviewBiometricsFragmentView : RequisitesConfirmationFragmentView&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="720" height="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
