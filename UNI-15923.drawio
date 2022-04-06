@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T14:00:30.910Z" agent="5.0 (Macintosh)" etag="OYXItNzL5gkeXmvZiUba" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T14:01:18.249Z" agent="5.0 (Macintosh)" etag="Nv5A7xA8j287N2Sm-yda" version="17.4.0" type="github">
   <diagram id="_SY6i5kRY3wPkOPPPDig" name="Page-1">
-    <mxGraphModel dx="1261" dy="2022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="1455" dy="2154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,23 +28,23 @@
         <mxCell id="DmR0rYpHkYZn28bjX9iA-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;TextWithRbController&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ onItemClickListener: (TextWithRbItem) -&amp;gt;Unit = {}&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="1000" y="440" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DmR0rYpHkYZn28bjX9iA-10" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="DmR0rYpHkYZn28bjX9iA-7" target="DmR0rYpHkYZn28bjX9iA-6">
+        <mxCell id="DmR0rYpHkYZn28bjX9iA-18" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="DmR0rYpHkYZn28bjX9iA-7" target="DmR0rYpHkYZn28bjX9iA-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DmR0rYpHkYZn28bjX9iA-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;TextWithRbItem&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ textSettings: TextSettings&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="440" width="160" height="120" as="geometry" />
+          <mxGeometry x="1040" y="600" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DmR0rYpHkYZn28bjX9iA-9" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="DmR0rYpHkYZn28bjX9iA-8" target="DmR0rYpHkYZn28bjX9iA-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DmR0rYpHkYZn28bjX9iA-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;TextSettings&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ text: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ textAppereance: Int&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="600" width="160" height="120" as="geometry" />
+          <mxGeometry x="1040" y="760" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="DmR0rYpHkYZn28bjX9iA-17" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="DmR0rYpHkYZn28bjX9iA-14" target="DmR0rYpHkYZn28bjX9iA-4">
+        <mxCell id="DmR0rYpHkYZn28bjX9iA-19" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="DmR0rYpHkYZn28bjX9iA-14" target="DmR0rYpHkYZn28bjX9iA-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DmR0rYpHkYZn28bjX9iA-14" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;FormAnotherCountryFragmentPresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="80" width="360" height="720" as="geometry" />
+          <mxGeometry x="1480" y="80" width="360" height="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
