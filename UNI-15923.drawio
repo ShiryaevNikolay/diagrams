@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T14:00:12.514Z" agent="5.0 (Macintosh)" etag="k_WEKsKD4KlGtUZqJpYO" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T14:00:30.910Z" agent="5.0 (Macintosh)" etag="OYXItNzL5gkeXmvZiUba" version="17.4.0" type="github">
   <diagram id="_SY6i5kRY3wPkOPPPDig" name="Page-1">
-    <mxGraphModel dx="1351" dy="2083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="2022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,9 +14,6 @@
           <mxGeometry x="80" y="80" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DmR0rYpHkYZn28bjX9iA-11" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="DmR0rYpHkYZn28bjX9iA-4" target="DmR0rYpHkYZn28bjX9iA-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DmR0rYpHkYZn28bjX9iA-16" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="DmR0rYpHkYZn28bjX9iA-4" target="DmR0rYpHkYZn28bjX9iA-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DmR0rYpHkYZn28bjX9iA-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;FormAnotherCountryFragmentBindModel&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ checkboxAction = Action(Pair&amp;lt;CheckboxItem, Boolean&amp;gt;)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ textItemController = Action(TextItem)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ radioButtonClickAction = Action(Pair&amp;lt;TextWithRbItem, Boolean&amp;gt;)&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ addCountryAction = Action()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ numberFieldAction = Action(String)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ continueBtnClickAction = Action()&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ screenState = State(ScreenState())&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ buttonState = State(Boolean)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
@@ -43,8 +40,11 @@
         <mxCell id="DmR0rYpHkYZn28bjX9iA-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;TextSettings&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ text: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ textAppereance: Int&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="1360" y="600" width="160" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="DmR0rYpHkYZn28bjX9iA-17" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="DmR0rYpHkYZn28bjX9iA-14" target="DmR0rYpHkYZn28bjX9iA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DmR0rYpHkYZn28bjX9iA-14" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;FormAnotherCountryFragmentPresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="80" width="360" height="720" as="geometry" />
+          <mxGeometry x="1600" y="80" width="360" height="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
