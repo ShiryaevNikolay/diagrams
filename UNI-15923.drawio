@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T07:06:39.788Z" agent="5.0 (Macintosh)" etag="bTgv429se7sah6ygBfOg" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T07:17:21.154Z" agent="5.0 (Macintosh)" etag="BJVoao92BoW8faEWnVpK" version="17.4.1" type="github">
   <diagram id="_SY6i5kRY3wPkOPPPDig" name="Page-1">
-    <mxGraphModel dx="1183" dy="3138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="3049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,7 +116,7 @@
           <mxGeometry x="60" y="-290" width="1800" height="1150" as="geometry" />
         </mxCell>
         <mxCell id="ro_xbtDfpzra4wUKkPER-1" value="ScreenField" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="-960" width="80" height="40" as="geometry" />
+          <mxGeometry x="1040" y="-920" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ro_xbtDfpzra4wUKkPER-6" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="ro_xbtDfpzra4wUKkPER-2" target="ro_xbtDfpzra4wUKkPER-1">
           <mxGeometry relative="1" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ro_xbtDfpzra4wUKkPER-3" value="InputField" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="-920" width="80" height="40" as="geometry" />
+          <mxGeometry x="1160" y="-880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ro_xbtDfpzra4wUKkPER-12" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="ro_xbtDfpzra4wUKkPER-9" target="ro_xbtDfpzra4wUKkPER-2">
           <mxGeometry relative="1" as="geometry" />
@@ -249,6 +249,18 @@
         </mxCell>
         <mxCell id="ro_xbtDfpzra4wUKkPER-47" value="USATaxResidentOnOtherGrounds" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="1720" y="-1680" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-54" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="ro_xbtDfpzra4wUKkPER-51" target="ro_xbtDfpzra4wUKkPER-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-51" value="InNumberInputField" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="-920" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-55" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="ro_xbtDfpzra4wUKkPER-52" target="ro_xbtDfpzra4wUKkPER-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-52" value="USATaxpayerIdNumber" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="-840" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
