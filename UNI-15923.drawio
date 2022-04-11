@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T06:52:41.989Z" agent="5.0 (Macintosh)" etag="EqXW21IRIAeg4cl9NVNl" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T07:06:39.788Z" agent="5.0 (Macintosh)" etag="bTgv429se7sah6ygBfOg" version="17.4.1" type="github">
   <diagram id="_SY6i5kRY3wPkOPPPDig" name="Page-1">
-    <mxGraphModel dx="860" dy="2920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="3138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ro_xbtDfpzra4wUKkPER-9" value="RadioButtonField" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="-1600" width="120" height="40" as="geometry" />
+          <mxGeometry x="1320" y="-1880" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ro_xbtDfpzra4wUKkPER-11" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="ro_xbtDfpzra4wUKkPER-10" target="ro_xbtDfpzra4wUKkPER-2">
           <mxGeometry relative="1" as="geometry" />
@@ -142,8 +142,11 @@
         <mxCell id="ro_xbtDfpzra4wUKkPER-10" value="CheckBoxButtonField" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="1320" y="-1000" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ro_xbtDfpzra4wUKkPER-13" value="RadioButtonField" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="-1640" width="120" height="40" as="geometry" />
+        <mxCell id="ro_xbtDfpzra4wUKkPER-37" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="ro_xbtDfpzra4wUKkPER-13" target="ro_xbtDfpzra4wUKkPER-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-13" value="IdNumber" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-2000" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ro_xbtDfpzra4wUKkPER-23" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="ro_xbtDfpzra4wUKkPER-14" target="ro_xbtDfpzra4wUKkPER-10">
           <mxGeometry relative="1" as="geometry" />
@@ -204,6 +207,48 @@
         </mxCell>
         <mxCell id="ro_xbtDfpzra4wUKkPER-32" value="OtherReasons" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="1800" y="-1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-38" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="ro_xbtDfpzra4wUKkPER-36" target="ro_xbtDfpzra4wUKkPER-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-36" value="USACitizenRadioButton" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-1760" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-42" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="ro_xbtDfpzra4wUKkPER-39" target="ro_xbtDfpzra4wUKkPER-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-39" value="TIN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-2080" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-43" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="ro_xbtDfpzra4wUKkPER-40" target="ro_xbtDfpzra4wUKkPER-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-40" value="Analog" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-2000" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-44" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="ro_xbtDfpzra4wUKkPER-41" target="ro_xbtDfpzra4wUKkPER-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-41" value="NoNumber" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-1920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-48" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="ro_xbtDfpzra4wUKkPER-45" target="ro_xbtDfpzra4wUKkPER-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-45" value="HavePermamentResidencePermit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-1840" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-49" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="ro_xbtDfpzra4wUKkPER-46" target="ro_xbtDfpzra4wUKkPER-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-46" value="USASignificantPresenceCriteria" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-1760" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-50" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="ro_xbtDfpzra4wUKkPER-47" target="ro_xbtDfpzra4wUKkPER-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-47" value="USATaxResidentOnOtherGrounds" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-1680" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
