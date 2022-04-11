@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T06:38:00.597Z" agent="5.0 (Macintosh)" etag="hfVle5N4TpluClqPf3uK" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T06:44:19.524Z" agent="5.0 (Macintosh)" etag="K4ES1laDW0e7aazlzy_Z" version="17.4.1" type="github">
   <diagram id="_SY6i5kRY3wPkOPPPDig" name="Page-1">
-    <mxGraphModel dx="901" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="2920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,13 +134,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ro_xbtDfpzra4wUKkPER-9" value="RadioButtonField" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="-1080" width="120" height="40" as="geometry" />
+          <mxGeometry x="1320" y="-1240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ro_xbtDfpzra4wUKkPER-11" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="ro_xbtDfpzra4wUKkPER-10" target="ro_xbtDfpzra4wUKkPER-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ro_xbtDfpzra4wUKkPER-10" value="CheckBoxButtonField" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="1320" y="-1000" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-13" value="RadioButtonField" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-14" value="TaxResidencyAnotherCountries" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-1120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-15" value="ReasonForNotHavingNumber" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-1040" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-16" value="ResidenceInExchangeForInvestmant" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-960" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ro_xbtDfpzra4wUKkPER-17" value="HaveUSATaxDesidency" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-880" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
