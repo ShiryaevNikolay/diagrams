@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T07:07:36.483Z" agent="5.0 (Macintosh)" etag="kF4Uph6AZV16zhiA8iUD" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T07:07:42.899Z" agent="5.0 (Macintosh)" etag="wPBGPkgleZzsYcEcNMod" version="18.0.3" type="github">
   <diagram id="GsDPfI9diMwruPTQcU5b" name="Page-1">
     <mxGraphModel dx="1773" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
           <mxGeometry x="-400" y="720" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l_9c71gGE2qhtRAVGWq2-28" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;IdNumbers&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ title: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ isChecked: Boolean&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="720" width="160" height="120" as="geometry" />
+          <mxGeometry x="40" y="720" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l_9c71gGE2qhtRAVGWq2-32" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="l_9c71gGE2qhtRAVGWq2-29" target="l_9c71gGE2qhtRAVGWq2-27">
           <mxGeometry relative="1" as="geometry">
