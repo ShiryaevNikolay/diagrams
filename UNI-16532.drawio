@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T08:35:37.645Z" agent="5.0 (Macintosh)" etag="fcxlrLL8g-ldHVhoLwF8" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T08:45:29.106Z" agent="5.0 (Macintosh)" etag="5pSCtMHP4xOXf1dkwc-I" version="18.0.3" type="github">
   <diagram id="GsDPfI9diMwruPTQcU5b" name="Page-1">
-    <mxGraphModel dx="2719" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="2547" dy="2333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,6 +227,36 @@
         </mxCell>
         <mxCell id="l_9c71gGE2qhtRAVGWq2-63" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;FormAnotherCountryFragmentPresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ &lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ addFieldForCountry() {&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ setCountry() {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;обработать добавление страны&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry y="1200" width="280" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="l_9c71gGE2qhtRAVGWq2-64" value="1h" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-80" width="1440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_9c71gGE2qhtRAVGWq2-65" value="1h" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="520" width="1480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_9c71gGE2qhtRAVGWq2-66" value="1h" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="920" y="520" width="840" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_9c71gGE2qhtRAVGWq2-67" value="1h" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="1000" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_9c71gGE2qhtRAVGWq2-68" value="1h" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1000" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_9c71gGE2qhtRAVGWq2-69" value="30m" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry y="1000" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_9c71gGE2qhtRAVGWq2-70" value="1h 30m" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry y="1160" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_9c71gGE2qhtRAVGWq2-71" value="30m" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1000" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_9c71gGE2qhtRAVGWq2-72" value="30m" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1000" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_9c71gGE2qhtRAVGWq2-73" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1000" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
