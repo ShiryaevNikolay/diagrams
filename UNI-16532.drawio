@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T07:11:13.665Z" agent="5.0 (Macintosh)" etag="8uZbNqCvmlde7v2dirVi" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T07:11:39.218Z" agent="5.0 (Macintosh)" etag="5YFk3wEAAvDnZMzl-sTU" version="18.0.3" type="github">
   <diagram id="GsDPfI9diMwruPTQcU5b" name="Page-1">
-    <mxGraphModel dx="3192" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="-40" y="560" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="l_9c71gGE2qhtRAVGWq2-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CountryUi&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="840" y="560" width="120" height="80" as="geometry" />
+          <mxGeometry x="1320" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l_9c71gGE2qhtRAVGWq2-7" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="l_9c71gGE2qhtRAVGWq2-4" target="l_9c71gGE2qhtRAVGWq2-1">
           <mxGeometry relative="1" as="geometry">
