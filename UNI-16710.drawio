@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T11:13:50.705Z" agent="5.0 (Macintosh)" version="19.0.0" etag="axIj4BLidMvPkU44uuX7" type="github"><diagram id="HY4hLn3VpTMjHJqJttL3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-07T11:18:51.074Z" agent="5.0 (Macintosh)" etag="tcliCngr2uy7yI3fwRZ9" version="19.0.0" type="github">
+  <diagram id="HY4hLn3VpTMjHJqJttL3" name="Page-1">
+    <mxGraphModel dx="757" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TtiQ_MxyLh--xciuVjhE-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;SessionChangedInteractor&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ login: String?&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ isUserAuth: Boolean = login != null&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ saveUserLogin(&lt;b&gt;login&lt;/b&gt;: String) {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;login = login&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ onLogout() {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;login = null&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="240" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
