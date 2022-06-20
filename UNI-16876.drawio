@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T11:51:42.585Z" agent="5.0 (Macintosh)" etag="rYA6vm1TyKCsH894aqEi" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T11:53:35.309Z" agent="5.0 (Macintosh)" etag="Msr_T5GPz5QoZ2iMnpfw" version="20.0.1" type="github">
   <diagram id="eiOn3xDo7uWDu8iiAyMU" name="Page-1">
-    <mxGraphModel dx="788" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="QGh5Z-5Umhr-68MVZ_py-9" value="1h" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="950" y="40" width="460" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="QGh5Z-5Umhr-68MVZ_py-10" value="2h 20m + 1h = 3h 30m" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;width=220;height=30;" vertex="1" parent="1">
+          <mxGeometry x="60" width="1360" height="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
