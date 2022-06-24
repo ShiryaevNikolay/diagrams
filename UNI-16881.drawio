@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T07:53:26.869Z" agent="5.0 (Macintosh)" etag="sq7wVDfNPy-pTyOieHJi" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-24T07:55:20.340Z" agent="5.0 (Macintosh)" etag="bs2_7O7U_H1IDqdYJGYH" version="20.0.3" type="github">
   <diagram id="Kl0iC6LbM6pLVu8i3kYD" name="Page-1">
-    <mxGraphModel dx="1183" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="f4UaNG6wr5DCocDjTxQN-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;QuickPaymentSystemApi&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ @DELETE(QPS_SUBSCRIPTION_DETAIL)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;fun deleteSubscription(&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;@Path(&quot;subscriptionId&quot;) subscriptionId: String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;): Complete&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ @PUT(QPS_SUBSCRIPTION_DETAIL)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;fun changeSubscription()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="760" y="120" width="280" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="f4UaNG6wr5DCocDjTxQN-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;QpsSubscriptionRequest&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ subscriptionName: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ cbAccount: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ cardId: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ monthlyLimit: MoneyDto&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="120" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
