@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T09:40:08.955Z" agent="5.0 (Macintosh)" etag="nr-fRBQT9b9Wy-kmOEQ5" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-24T09:42:29.913Z" agent="5.0 (Macintosh)" etag="RtPyqacE10BLlVAFj_KO" version="20.0.3" type="github">
   <diagram id="Kl0iC6LbM6pLVu8i3kYD" name="Page-1">
-    <mxGraphModel dx="676" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,11 +28,14 @@
         <mxCell id="f4UaNG6wr5DCocDjTxQN-8" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="750" y="360" width="180" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="f4UaNG6wr5DCocDjTxQN-9" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
+        <mxCell id="f4UaNG6wr5DCocDjTxQN-9" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="1110" y="80" width="380" height="330" as="geometry" />
         </mxCell>
         <mxCell id="f4UaNG6wr5DCocDjTxQN-11" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="1550" y="80" width="420" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="f4UaNG6wr5DCocDjTxQN-12" value="1h 40m + 30m = 2h 10m" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;width=180;height=30;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="1880" height="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
