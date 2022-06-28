@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T11:41:24.508Z" agent="5.0 (Macintosh)" etag="W-8uKI4s8Y48YmbK5t4i" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T11:42:20.896Z" agent="5.0 (Macintosh)" etag="vmdXGZf5g4gT2ihkdbLl" version="20.0.3" type="github">
   <diagram id="NFXYB8Lr2hZxddehbd_N" name="Page-1">
-    <mxGraphModel dx="1455" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="o2KufiifE4-Ni5lfBYhV-7" value="1h" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="1310" y="360" width="260" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="o2KufiifE4-Ni5lfBYhV-8" value="3h 30m + 30m = 4h" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;width=260;height=30;" vertex="1" parent="1">
+        <mxCell id="o2KufiifE4-Ni5lfBYhV-8" value="3h 30m + 30m = 4h " style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;width=260;height=30;" vertex="1" parent="1">
           <mxGeometry x="100" y="40" width="1480" height="900" as="geometry" />
         </mxCell>
       </root>
