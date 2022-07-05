@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T12:54:01.526Z" agent="5.0 (Macintosh)" etag="VieRAhHc86_Q5LMm5zjJ" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T13:04:26.137Z" agent="5.0 (Macintosh)" etag="-obvPoIw9j8280TAltux" version="20.0.3" type="github">
   <diagram id="dgySgIXKoiI1m48yWmHK" name="Page-1">
-    <mxGraphModel dx="788" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="823" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,9 @@
         </mxCell>
         <mxCell id="GnEPdB5FuV8N0eEhSFUD-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;MaxSizePurposeConstraint : Constraint&amp;lt;String&amp;gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ isValid(value: String): Boolean {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;return value.size &amp;lt;= 50&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="680" y="320" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GnEPdB5FuV8N0eEhSFUD-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ServerUrls&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="120" width="359.5" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
