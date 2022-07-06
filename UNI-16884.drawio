@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T08:39:21.796Z" agent="5.0 (Macintosh)" etag="Vx3LJ611PLNkn97V26Fv" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T08:40:28.725Z" agent="5.0 (Macintosh)" etag="ZMk4VS1N62vDQduXqAHk" version="20.0.4" type="github">
   <diagram id="dgySgIXKoiI1m48yWmHK" name="Page-1">
-    <mxGraphModel dx="556" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="610" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="nkkHQVLCM54U9WsjHT4e-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;QuickPaymentSystemRepository&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getC2bLimit(): Single&amp;lt;C2bLimit&amp;gt; {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Single.zip(&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;api.getC2bMaxLimit()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;api.getC2bMimLimit()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;).map { mapToLimitData() }&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="1241" y="520" width="479" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nkkHQVLCM54U9WsjHT4e-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;QuickPaymentSystemInteractor&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getC2bLimit(): Single&amp;lt;C2bLitim&amp;gt; {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;repository.getC2bLitim()&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="760" width="479" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
