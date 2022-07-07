@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T11:43:30.101Z" agent="5.0 (Macintosh)" etag="WihwSchDpewuR2GT6_bY" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T11:44:25.341Z" agent="5.0 (Macintosh)" etag="UZwnRqYcoqvjuaiqKp6O" version="20.0.4" type="github">
   <diagram id="27o3TfoCxEZ5xNe_jaEm" name="Page-1">
-    <mxGraphModel dx="1687" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="1669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="aIC7J3rfnAC5LALdEa5v-15" value="Удаление привязки: 2h" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;width=220;height=30;" vertex="1" parent="1">
           <mxGeometry x="100" width="1760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aIC7J3rfnAC5LALdEa5v-16" value="5h 30m + 1h + 30m = 7h" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;width=300;height=40;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="-40" width="2250" height="1060" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
