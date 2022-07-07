@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T11:03:04.660Z" agent="5.0 (Macintosh)" etag="c-jWW_gTbH15M5ihvlq7" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T11:05:06.732Z" agent="5.0 (Macintosh)" etag="bPJPuuXN6jRnI1zYKlMm" version="20.0.4" type="github">
   <diagram id="27o3TfoCxEZ5xNe_jaEm" name="Page-1">
     <mxGraphModel dx="860" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry x="560" y="120" width="480" height="480" as="geometry" />
         </mxCell>
         <mxCell id="aIC7J3rfnAC5LALdEa5v-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;PreviewUpdateSubscriptionFragmentConfigurator : &lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;FragmentScreenConfigurator&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="120" width="520" height="600" as="geometry" />
+          <mxGeometry x="1080" y="120" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aIC7J3rfnAC5LALdEa5v-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;PreviewScreenProvider :&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;RequisitesConfirmationFragmentRoute.FragmentClassProvider&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="120" width="480" height="200" as="geometry" />
+          <mxGeometry x="1440" y="120" width="400" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aIC7J3rfnAC5LALdEa5v-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;PreviewUpdateSubscriptionParams&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="280" height="160" as="geometry" />
