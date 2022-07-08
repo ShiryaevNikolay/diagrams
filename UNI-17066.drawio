@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T14:03:08.035Z" agent="5.0 (Macintosh)" etag="tqRbQR4tpkAzNwQ7ykZJ" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T14:04:00.991Z" agent="5.0 (Macintosh)" etag="HpU1Ulpl65QA9lUSep_P" version="20.0.4" type="github">
   <diagram id="lNRKU847BdrLor7_vFtG" name="Page-1">
-    <mxGraphModel dx="701" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,15 @@
         </mxCell>
         <mxCell id="KZhucVSLcrLX6EzS0dm_-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CallAdapterFactory&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ timeoutErrorPredicate = { code: Int, errorBody: ErrorBody? -&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;code == HttpCodes.CODE_500 &amp;amp;&amp;amp;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; errorBody?.code == 113&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ &amp;lt;R&amp;gt; onHttpException(e: HttpException, call: Call&amp;lt;R&amp;gt;): Observable&amp;lt;R&amp;gt; {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;return when {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;...&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;timeoutErrorPredicate(httpCode, errorBody) -&amp;gt; Observable.error(&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;TimeoutOperationException(e, errorBody)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="400" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="KZhucVSLcrLX6EzS0dm_-4" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="220" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="KZhucVSLcrLX6EzS0dm_-5" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="80" width="420" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KZhucVSLcrLX6EzS0dm_-6" value="35m + 30m = 1h" style="shape=umlFrame;whiteSpace=wrap;html=1;width=180;height=30;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="720" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
