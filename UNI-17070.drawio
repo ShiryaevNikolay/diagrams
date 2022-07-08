@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T09:28:06.530Z" agent="5.0 (Macintosh)" etag="UXiCbuhJjEUcYlPVlZsz" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T09:29:15.731Z" agent="5.0 (Macintosh)" etag="60qPNEkc7KfdYkfrSTNd" version="20.0.4" type="github">
   <diagram id="_11fgWYeZWs7mpHxSI01" name="Page-1">
-    <mxGraphModel dx="757" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,16 +8,28 @@
           <mxGeometry x="120" y="120" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="eyirgzZCKavRE8oVCcqX-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CreateSubscriptionRequest&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ agreement: Boolean,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ qrId: String,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ subscriptionInfo: SubscriptionInfoDto?&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="320" width="240" height="120" as="geometry" />
+          <mxGeometry x="120" y="360" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eyirgzZCKavRE8oVCcqX-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;SubscriptionInfoDto&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ subscriptionName: String?,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ cbAccount: String,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ cardId: String?,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ monthlyLimit: MoneyDto?&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="480" width="200" height="120" as="geometry" />
+          <mxGeometry x="120" y="520" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eyirgzZCKavRE8oVCcqX-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;QuickPaymentSystemRepository&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createSubscription(&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;token: String? = null,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;agreement: Boolean,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;qrId: String,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;subscriptionName: String?,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;product: Product,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;limit: Money&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;): Single&amp;lt;...&amp;gt; {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;request = CreateSubscriptionRequest(&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;agreement,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;qrId,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;subscriptionInfo = SubscriptionDto(&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;subscriptionName,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;product.value,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;MoneyDto(&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;limit.amount,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;limit.currency&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;).takeIf { agreement }&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;return api.createSubscription(&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;token,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;request&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="280" height="480" as="geometry" />
         </mxCell>
         <mxCell id="eyirgzZCKavRE8oVCcqX-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;QuickPaymentSystemInteractor&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createSubscription(...): Single&amp;lt;...&amp;gt; {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;return repository.createSubscription(...)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="120" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eyirgzZCKavRE8oVCcqX-6" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="260" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="eyirgzZCKavRE8oVCcqX-7" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="eyirgzZCKavRE8oVCcqX-8" value="30m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="80" width="300" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="eyirgzZCKavRE8oVCcqX-9" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="80" width="260" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
