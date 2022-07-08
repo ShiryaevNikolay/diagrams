@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T13:59:47.059Z" agent="5.0 (Macintosh)" etag="FjFJIARKtifWr2PFpQO2" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T14:03:08.035Z" agent="5.0 (Macintosh)" etag="tqRbQR4tpkAzNwQ7ykZJ" version="20.0.4" type="github">
   <diagram id="lNRKU847BdrLor7_vFtG" name="Page-1">
-    <mxGraphModel dx="541" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="701" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,8 @@
         <mxCell id="KZhucVSLcrLX6EzS0dm_-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TimeoutOperationException :&lt;br&gt;HttpProtocolException&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ cause: HttpException,&lt;br&gt;+ errorBody: ErrorBody? = null&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KZhucVSLcrLX6EzS0dm_-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CallAdapterFactory&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="120" width="360" height="460" as="geometry" />
+        <mxCell id="KZhucVSLcrLX6EzS0dm_-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CallAdapterFactory&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ timeoutErrorPredicate = { code: Int, errorBody: ErrorBody? -&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;code == HttpCodes.CODE_500 &amp;amp;&amp;amp;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; errorBody?.code == 113&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ &amp;lt;R&amp;gt; onHttpException(e: HttpException, call: Call&amp;lt;R&amp;gt;): Observable&amp;lt;R&amp;gt; {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;return when {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;...&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;timeoutErrorPredicate(httpCode, errorBody) -&amp;gt; Observable.error(&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;TimeoutOperationException(e, errorBody)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="400" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
