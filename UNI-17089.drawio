@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T11:51:46.704Z" agent="5.0 (Macintosh)" etag="hGzk4Bi67wIcpqYR8o4W" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T11:57:53.023Z" agent="5.0 (Macintosh)" etag="TOs-SJxpAiC7QOx_ljLc" version="20.0.4" type="github">
   <diagram id="072cbzqGZdJSR3o4yALt" name="Page-1">
-    <mxGraphModel dx="1650" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2282" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,33 @@
         </mxCell>
         <mxCell id="5DS9fF-XWLZNN3ucQ55--10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;C2BBindingAccountSuccessScreenPresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ onFirstLoad() {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;bm.failedSubscribeBindingAccountState bindTo ::openPreviewCancel&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;bm.successSubscribeBindingAccountState bindTo ::openPreviewConfirm&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ openPreviewCancel() {&lt;br&gt;&lt;br&gt;}&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ openPreviewConfirm() {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="400" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5DS9fF-XWLZNN3ucQ55--11" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="80" width="380" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5DS9fF-XWLZNN3ucQ55--12" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="80" width="376" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="5DS9fF-XWLZNN3ucQ55--13" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="80" width="460" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5DS9fF-XWLZNN3ucQ55--15" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="460" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5DS9fF-XWLZNN3ucQ55--16" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="80" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5DS9fF-XWLZNN3ucQ55--17" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="240" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5DS9fF-XWLZNN3ucQ55--18" value="45m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="80" width="300" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5DS9fF-XWLZNN3ucQ55--19" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="80" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5DS9fF-XWLZNN3ucQ55--20" value="2h 35m + 2h = 4h 35m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=300;height=30;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="40" width="2200" height="620" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
