@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T09:07:15.831Z" agent="5.0 (Macintosh)" etag="nbxFnW4EgbwUOxYfLkcb" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T09:07:52.763Z" agent="5.0 (Macintosh)" etag="-94zf5OdD8UxAH2DEq1F" version="20.0.4" type="github">
   <diagram id="CV74Sa5hgsRvk8smRXhG" name="Page-1">
     <mxGraphModel dx="946" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2hWszH5Eks-RPNUM4W_o-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;PreviewSubscriptionBindingAccountFragmentPresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+        <mxCell id="2hWszH5Eks-RPNUM4W_o-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;PreviewSubscriptionBindingAccountFragmentPresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ openSuccessScreen() {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="520" height="360" as="geometry" />
         </mxCell>
       </root>
