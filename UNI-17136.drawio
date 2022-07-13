@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T09:27:55.845Z" agent="5.0 (Macintosh)" etag="ofC3Ceqh6ehibKCgGlIT" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T09:58:28.871Z" agent="5.0 (Macintosh)" etag="r_PfQPdG9nZoXXyqck5w" version="20.0.4" type="github">
   <diagram id="CV74Sa5hgsRvk8smRXhG" name="Page-1">
-    <mxGraphModel dx="676" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="901" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,15 @@
         </mxCell>
         <mxCell id="2hWszH5Eks-RPNUM4W_o-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;C2BBindingAccountSuccessScreenActivityBindModel&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ bindingAccountState = State(&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;...&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;tradeName = route.qrDetails.beneficiaryTradeName&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;)&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="120" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2hWszH5Eks-RPNUM4W_o-3" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="80" width="376" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2hWszH5Eks-RPNUM4W_o-4" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="80" width="380" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2hWszH5Eks-RPNUM4W_o-5" value="25m + 15m + 30m = 1h 10m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=220;height=30;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="800" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
