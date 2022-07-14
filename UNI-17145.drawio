@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T12:19:41.701Z" agent="5.0 (Macintosh)" etag="rgFMOYhWyH6nFjJxEAB5" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T12:24:37.705Z" agent="5.0 (Macintosh)" etag="YztgT0RE02r1ElXJt-qE" version="20.1.1" type="github">
   <diagram id="gWVzGPQjn2zDsp72pqYC" name="Page-1">
-    <mxGraphModel dx="757" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,24 @@
         </mxCell>
         <mxCell id="rqU30VaZS2W21N0QK3EW-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;DocumentInfoFragmentView&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ bind() {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;bm.subtitleState bindTo { subtitle -&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;subtitle.setTextOr...(subtitile.data)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="280" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rqU30VaZS2W21N0QK3EW-6" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="420" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="rqU30VaZS2W21N0QK3EW-7" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="80" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rqU30VaZS2W21N0QK3EW-8" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rqU30VaZS2W21N0QK3EW-9" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="80" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rqU30VaZS2W21N0QK3EW-10" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="240" width="220" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="rqU30VaZS2W21N0QK3EW-11" value="1h 20m + 20m = 1h 40m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=180;height=30;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="980" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
