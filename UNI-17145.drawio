@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T12:04:32.589Z" agent="5.0 (Macintosh)" etag="r1UlkPSiEmdoYtblupPw" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T12:04:38.092Z" agent="5.0 (Macintosh)" etag="nZG3xaA-ZTicszlK9g63" version="20.1.1" type="github">
   <diagram id="gWVzGPQjn2zDsp72pqYC" name="Page-1">
     <mxGraphModel dx="757" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="120" y="120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rqU30VaZS2W21N0QK3EW-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;UserDocumentsFragmentPresenter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ openDocumentDetailsScreen(personalDocument: PersonalDocument) {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;DocumentInfoRoute(&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;subtitle = personalDocument.getSubtitle()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ PersonalDocument.getSubtitle() {&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;return reqourveProvider.getString(R.string....).takeIf { isRussianPassport }&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;}&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="440" height="200" as="geometry" />
+          <mxGeometry x="320" y="120" width="400" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
