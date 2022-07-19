@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T06:45:31.202Z" agent="5.0 (Macintosh)" etag="fmQNEfXUfyrxybpLXpM9" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T06:48:22.291Z" agent="5.0 (Macintosh)" etag="X6bg22-K2q5HqmCv4ylX" version="20.1.1" type="github">
   <diagram id="388evJ7L-WMi9SXEFM6U" name="Page-1">
-    <mxGraphModel dx="1051" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,27 @@
         </mxCell>
         <mxCell id="vjr38jkIV8c9SoQTynum-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;SimpleBanner&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ personalOfferParams: PersonalOfferParams?&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="520" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vjr38jkIV8c9SoQTynum-2" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="420" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="vjr38jkIV8c9SoQTynum-3" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="80" width="300" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="vjr38jkIV8c9SoQTynum-4" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="300" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="vjr38jkIV8c9SoQTynum-5" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="80" width="340" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="vjr38jkIV8c9SoQTynum-6" value="40m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="80" width="540" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="vjr38jkIV8c9SoQTynum-7" value="1h 35m + 1h = 2h 35m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=220;height=30;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="1680" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="vjr38jkIV8c9SoQTynum-8" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="480" width="300" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
