@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T07:48:20.550Z" agent="5.0 (Macintosh)" etag="jxSDYhEnUXDBrUUpqHhM" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T07:52:16.624Z" agent="5.0 (Macintosh)" etag="alF65av8C2lQLKCuPGyx" version="20.1.1" type="github">
   <diagram id="9GHJsgkGWnPM4DRguKOr" name="Page-1">
-    <mxGraphModel dx="728" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,19 @@
           <mxGeometry x="560" y="80" width="360" height="160" as="geometry" />
         </mxCell>
         <mxCell id="BnFLH-ceUi1MthiOXDKU-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TradeNameItem&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ logo: String&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="120" height="90" as="geometry" />
+          <mxGeometry x="320" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BnFLH-ceUi1MthiOXDKU-7" value="15m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BnFLH-ceUi1MthiOXDKU-8" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BnFLH-ceUi1MthiOXDKU-9" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="40" width="380" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="BnFLH-ceUi1MthiOXDKU-10" value="45m + 1h (отладка) + 40m (ревью) = 2h 25m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=260;height=30;" vertex="1" parent="1">
+          <mxGeometry x="300" width="640" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
