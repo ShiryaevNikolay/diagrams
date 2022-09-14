@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T10:46:25.550Z" agent="5.0 (Macintosh)" etag="7Jux_mfSB7fX5JHTISCw" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T10:46:30.126Z" agent="5.0 (Macintosh)" etag="YD7ZCAENTc2XBYwNhalZ" version="20.2.7" type="github">
   <diagram id="dt8f0_OxUevteH7nN-te" name="Страница 1">
     <mxGraphModel dx="788" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jle9hjsM89Lm7rr48uow-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;view_branch_detail&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ TextView(&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;android:drawableStart=&quot;@drawable/ic_clock_accent&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;android:drawablePadding=&quot;@dimen/dp16&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="310" height="240" as="geometry" />
+          <mxGeometry x="80" y="80" width="320" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
