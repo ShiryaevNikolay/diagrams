@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T06:34:31.032Z" agent="5.0 (Macintosh)" etag="d0_omCp3OgSnZFh_PWtd" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-03T10:05:48.942Z" agent="5.0 (Macintosh)" etag="QjlMHxMqCEwChX8GZBOG" version="20.3.0" type="github">
   <diagram id="-5D71i8O5MvKb4OggWt0" name="Страница 1">
-    <mxGraphModel dx="1351" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,6 +39,33 @@
         </mxCell>
         <mxCell id="gNV8FCJDL7z8xUMUF4n8-12" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="40" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gNV8FCJDL7z8xUMUF4n8-14" value="5m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gNV8FCJDL7z8xUMUF4n8-15" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gNV8FCJDL7z8xUMUF4n8-16" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gNV8FCJDL7z8xUMUF4n8-17" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gNV8FCJDL7z8xUMUF4n8-18" value="5m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="200" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gNV8FCJDL7z8xUMUF4n8-19" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="40" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gNV8FCJDL7z8xUMUF4n8-20" value="20m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="200" width="260" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="gNV8FCJDL7z8xUMUF4n8-21" value="10m" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="360" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gNV8FCJDL7z8xUMUF4n8-22" value="2h 30m + 30m (ревью) = 3h" style="shape=umlFrame;whiteSpace=wrap;html=1;width=300;height=30;" vertex="1" parent="1">
+          <mxGeometry x="60" width="1160" height="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
