@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T11:44:28.464Z" agent="5.0 (Macintosh)" etag="H5L28147qi3lbtX_q25A" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-04T11:44:45.091Z" agent="5.0 (Macintosh)" etag="xQ0Bdv14Zv6zXjI2jNfk" version="20.4.0" type="github">
   <diagram id="2Kyve5OttmHKondvkf3b" name="Страница 1">
     <mxGraphModel dx="1455" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="65-z9aODiT-qtnd0e328-9" value="1h" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="40" width="220" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="65-z9aODiT-qtnd0e328-10" value="2h 20m + 1h (отладка) + 1h (ревью) = 4h 20m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=330;height=30;" vertex="1" parent="1">
+        <mxCell id="65-z9aODiT-qtnd0e328-10" value="2h 20m" style="shape=umlFrame;whiteSpace=wrap;html=1;width=330;height=30;" vertex="1" parent="1">
           <mxGeometry x="310" y="40" width="420" height="650" as="geometry" />
         </mxCell>
         <mxCell id="65-z9aODiT-qtnd0e328-11" value="1h" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
