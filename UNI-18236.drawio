@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T11:21:58.922Z" agent="5.0 (Macintosh)" etag="ma3vxoirQTlv_IX8owex" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-04T11:22:10.312Z" agent="5.0 (Macintosh)" etag="GOvAKhh-BJnRog_Eh-KB" version="20.4.0" type="github">
   <diagram id="2Kyve5OttmHKondvkf3b" name="Страница 1">
-    <mxGraphModel dx="860" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="320" y="80" width="400" height="570" as="geometry" />
         </mxCell>
         <mxCell id="65-z9aODiT-qtnd0e328-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;SearchByUinFragmentBindModel&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ backNavigationAction = Action&amp;lt;Unit&amp;gt;()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ uinAction = Action&amp;lt;String&amp;gt;()&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ noUinAction = Action&amp;lt;Unit&amp;gt;()&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ searchBtnAction = Action&amp;lt;Unit&amp;gt;()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ transferBtnAction = Action&amp;lt;Unit&amp;gt;()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ paymentSourceState = State&amp;lt;LoadableData&amp;lt;List&amp;lt;SelectableData&amp;lt;Product&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ innState = State&amp;lt;LoadableData&amp;lt;SelectableData&amp;lt;UserIdentificator&amp;gt;&amp;gt;&amp;gt;()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ uinState = State&amp;lt;String&amp;gt;()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ fieldsState = State&amp;lt;&amp;gt;()&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="80" width="480" height="480" as="geometry" />
+          <mxGeometry x="760" y="80" width="480" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
