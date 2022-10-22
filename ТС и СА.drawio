@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T12:02:35.194Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="UE7KRQMRjdZ_gHnjeCL9" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-22T12:25:34.452Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="OLPiPwh-D1K0fpRT24Vm" version="20.3.0" type="github">
   <diagram id="WiuyMp_RUBwJ1tMxnkiM" name="Страница 1">
-    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,6 +97,66 @@
         </mxCell>
         <mxCell id="XUD_TKHbQNdrTEIZYywG-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Промышленная организация&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="XUD_TKHbQNdrTEIZYywG-29" target="XUD_TKHbQNdrTEIZYywG-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="XUD_TKHbQNdrTEIZYywG-29" target="XUD_TKHbQNdrTEIZYywG-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="XUD_TKHbQNdrTEIZYywG-29" target="XUD_TKHbQNdrTEIZYywG-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Директор&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="200" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="XUD_TKHbQNdrTEIZYywG-30" target="XUD_TKHbQNdrTEIZYywG-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="XUD_TKHbQNdrTEIZYywG-30" target="XUD_TKHbQNdrTEIZYywG-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-30" value="Отдел продаж" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="XUD_TKHbQNdrTEIZYywG-31" target="XUD_TKHbQNdrTEIZYywG-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-31" value="Бухгалтерия" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-32" value="Менеджер" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="XUD_TKHbQNdrTEIZYywG-33" target="XUD_TKHbQNdrTEIZYywG-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="XUD_TKHbQNdrTEIZYywG-33" target="XUD_TKHbQNdrTEIZYywG-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="XUD_TKHbQNdrTEIZYywG-33" target="XUD_TKHbQNdrTEIZYywG-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-33" value="IT-отдел" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-34" value="Кассир" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-35" value="Бухгалтер" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-36" value="Android отдел" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-38" value="iOS отдел" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-39" value="Flutter отдел" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XUD_TKHbQNdrTEIZYywG-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Иерархическая система IT&amp;nbsp; организации&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="120" width="440" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
