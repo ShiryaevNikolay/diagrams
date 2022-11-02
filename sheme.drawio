@@ -1,1 +1,165 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T14:38:00.841Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.1" etag="s74seaaQ5plWhoN7hmS2" type="github"><diagram id="OpJCEr7rIlbrPj4_UwZO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-02T15:05:48.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="SU_8jNqWitD3Ss6vHps-" version="20.5.1" type="github">
+  <diagram id="OpJCEr7rIlbrPj4_UwZO" name="Страница 1">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="me3pULGJ5t-feI3vnPao-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-1" target="me3pULGJ5t-feI3vnPao-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-24" value="Ведомости&lt;br&gt;возвышений&lt;br&gt;наружного&lt;br&gt;релься в&lt;br&gt;кривых" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-23">
+          <mxGeometry x="-0.0375" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-1" target="me3pULGJ5t-feI3vnPao-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-26" value="Паспорт&lt;br&gt;дистанции&lt;br&gt;пути" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-25">
+          <mxGeometry x="-0.0312" relative="1" as="geometry">
+            <mxPoint x="22" y="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Дистанция пути&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-2" target="me3pULGJ5t-feI3vnPao-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-28" value="Данные вагона -&lt;br&gt;путеизмерителя" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-27">
+          <mxGeometry x="-0.768" relative="1" as="geometry">
+            <mxPoint x="-80" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Вагон - путеизмеритель&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-3" target="me3pULGJ5t-feI3vnPao-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="240" />
+              <mxPoint x="310" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-32" value="Подробный&lt;br&gt;продольный&lt;br&gt;профиль" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-30">
+          <mxGeometry x="-0.7354" relative="1" as="geometry">
+            <mxPoint x="-50" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-3" target="me3pULGJ5t-feI3vnPao-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="260" />
+              <mxPoint x="310" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-33" value="Сведения о&lt;br&gt;планируемых&lt;br&gt;ремонтах,&lt;br&gt;рекомендации и&lt;br&gt;переустройстве&lt;br&gt;сооружений и&lt;br&gt;устройств" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-31">
+          <mxGeometry x="-0.7148" y="1" relative="1" as="geometry">
+            <mxPoint x="59" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Служба пути&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-4" target="me3pULGJ5t-feI3vnPao-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-35" value="Информация&lt;br&gt;об участниках&lt;br&gt;дороги" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-34">
+          <mxGeometry x="-0.0562" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;База банных&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Начальник службы пути&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-6" target="me3pULGJ5t-feI3vnPao-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-17" value="Нормативно-справочная информация" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-14">
+          <mxGeometry x="-0.0125" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-6" target="me3pULGJ5t-feI3vnPao-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-18" value="Поездопоток" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-15">
+          <mxGeometry y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Инженер службы пути&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-7" target="me3pULGJ5t-feI3vnPao-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-20" value="Ведомости допускаемых скоростей" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-19">
+          <mxGeometry x="-0.0062" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-7" target="me3pULGJ5t-feI3vnPao-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="340" />
+              <mxPoint x="1040" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-37" value="Ведомости&lt;br&gt;допускаемых&lt;br&gt;скоростей" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-36">
+          <mxGeometry x="-0.0056" y="-1" relative="1" as="geometry">
+            <mxPoint x="79" y="-91" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-7" target="me3pULGJ5t-feI3vnPao-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-7" target="me3pULGJ5t-feI3vnPao-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="400" />
+              <mxPoint x="1120" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-42" value="Формы 1, 1а и 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-41">
+          <mxGeometry x="-0.8105" y="2" relative="1" as="geometry">
+            <mxPoint x="16" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Система определения допускаемых скоростей&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="280" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Службы железной дороги&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Департамент пути и сооружений ОАО &quot;РЖД&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Служба перевозок&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="310" as="sourcePoint" />
+            <mxPoint x="760" y="311" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-22" value="Информация об участках дороги" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-21">
+          <mxGeometry x="-0.0125" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
