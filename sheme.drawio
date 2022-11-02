@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T15:05:48.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="SU_8jNqWitD3Ss6vHps-" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T15:08:57.847Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="qlmnJmB1vUHD_3KC5k1F" version="20.5.1" type="github">
   <diagram id="OpJCEr7rIlbrPj4_UwZO" name="Страница 1">
-    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1455" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,6 +74,15 @@
         <mxCell id="me3pULGJ5t-feI3vnPao-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;База банных&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="80" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-5" target="me3pULGJ5t-feI3vnPao-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="120" />
+              <mxPoint x="1340" y="620" />
+              <mxPoint x="310" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="me3pULGJ5t-feI3vnPao-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Начальник службы пути&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="80" width="120" height="80" as="geometry" />
         </mxCell>
@@ -128,9 +137,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="me3pULGJ5t-feI3vnPao-42" value="Формы 1, 1а и 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-41">
-          <mxGeometry x="-0.8105" y="2" relative="1" as="geometry">
-            <mxPoint x="16" y="2" as="offset" />
+        <mxCell id="me3pULGJ5t-feI3vnPao-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-7" target="me3pULGJ5t-feI3vnPao-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="400" />
+              <mxPoint x="1120" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-45" value="Формы 1, 1а и 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-43">
+          <mxGeometry x="-0.6375" y="2" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="me3pULGJ5t-feI3vnPao-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Система определения допускаемых скоростей&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -139,11 +156,34 @@
         <mxCell id="me3pULGJ5t-feI3vnPao-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Службы железной дороги&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="360" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1340" y="560" />
+              <mxPoint x="1340" y="620" />
+              <mxPoint x="310" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-48" value="Указания на расчет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-47">
+          <mxGeometry x="-0.0178" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="me3pULGJ5t-feI3vnPao-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Департамент пути и сооружений ОАО &quot;РЖД&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="1160" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="me3pULGJ5t-feI3vnPao-10" target="me3pULGJ5t-feI3vnPao-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me3pULGJ5t-feI3vnPao-50" value="Сведения о&lt;br&gt;фактическом&lt;br&gt;или&lt;br&gt;планируемом&lt;br&gt;поездопотоке" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="me3pULGJ5t-feI3vnPao-49">
+          <mxGeometry x="-0.0755" relative="1" as="geometry">
+            <mxPoint x="-50" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="me3pULGJ5t-feI3vnPao-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Служба перевозок&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="me3pULGJ5t-feI3vnPao-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
