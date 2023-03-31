@@ -1,20 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T17:14:23.223Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ylmoIdQ6dvAhtARCmViP" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T17:16:29.336Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rtS48hpy-6CXH_GofC5w" version="21.0.6" type="github">
   <diagram name="Страница 1" id="Hj7WZRHEY6jLmdvMJjMu">
-    <mxGraphModel dx="1363" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1735" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="U9bLC9-rBYQfSo02jBwW-1" value="Оценка будущего развития компании по производству ноутбуков" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="400" y="40" width="400" height="80" as="geometry" />
+          <mxGeometry x="440" y="40" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bLC9-rBYQfSo02jBwW-2" value="Технологии и инновации" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bLC9-rBYQfSo02jBwW-3" value="Логистика" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="520" y="160" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="U9bLC9-rBYQfSo02jBwW-4" value="Мировые тенденции" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="800" y="160" width="240" height="80" as="geometry" />
+          <mxGeometry x="560" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bLC9-rBYQfSo02jBwW-5" value="Внедрение более совершенных технологий" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="40" y="360" width="360" height="80" as="geometry" />
@@ -32,34 +29,34 @@
           <mxGeometry x="480" y="680" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bLC9-rBYQfSo02jBwW-10" value="Расширение географии" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="480" y="360" width="280" height="80" as="geometry" />
+          <mxGeometry x="480" y="360" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bLC9-rBYQfSo02jBwW-11" value="Маркетинг" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1121" y="160" width="199" height="80" as="geometry" />
+          <mxGeometry x="920.5" y="160" width="199" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bLC9-rBYQfSo02jBwW-12" value="Расширение клиентской базы" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="360" width="320" height="80" as="geometry" />
+          <mxGeometry x="880" y="360" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bLC9-rBYQfSo02jBwW-13" value="Гибкая система скидок" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="480" width="320" height="80" as="geometry" />
+          <mxGeometry x="880" y="480" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bLC9-rBYQfSo02jBwW-14" value="Улучшение качества рекламы" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="680" width="320" height="80" as="geometry" />
+          <mxGeometry x="880" y="680" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bLC9-rBYQfSo02jBwW-15" value="Новые стратегии привлечения клиентов" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="800" width="320" height="80" as="geometry" />
+          <mxGeometry x="880" y="800" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bLC9-rBYQfSo02jBwW-16" value="Улучшение поставок" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="480" y="480" width="280" height="80" as="geometry" />
+          <mxGeometry x="480" y="480" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bLC9-rBYQfSo02jBwW-17" value="Договор со службами доставки" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="480" y="800" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bLC9-rBYQfSo02jBwW-18" value="Продажа более качественных товаров" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="400" y="960" width="360" height="80" as="geometry" />
+          <mxGeometry x="240" y="1000" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bLC9-rBYQfSo02jBwW-19" value="Увеличение количества продаж" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="840" y="960" width="360" height="80" as="geometry" />
+          <mxGeometry x="680" y="1000" width="360" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
