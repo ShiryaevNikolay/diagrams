@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T16:54:38.598Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.2" etag="x9JJHFP3eiPw-5hWL-_r" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T16:58:51.533Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="VolMdsbWfERz-mz7_G-v" version="21.1.2" type="github">
   <diagram name="Страница 1" id="-c80VkbOCcPBntKyp7d_">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Vd-8GJ6DoboqLMmhZI5Q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="Vd-8GJ6DoboqLMmhZI5Q-1" target="Vd-8GJ6DoboqLMmhZI5Q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd-8GJ6DoboqLMmhZI5Q-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd-8GJ6DoboqLMmhZI5Q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="Vd-8GJ6DoboqLMmhZI5Q-2" target="Vd-8GJ6DoboqLMmhZI5Q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd-8GJ6DoboqLMmhZI5Q-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;AudioRecord&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd-8GJ6DoboqLMmhZI5Q-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Application&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd-8GJ6DoboqLMmhZI5Q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="Vd-8GJ6DoboqLMmhZI5Q-4" target="Vd-8GJ6DoboqLMmhZI5Q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd-8GJ6DoboqLMmhZI5Q-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Algorithms&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-40" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
