@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T17:07:54.328Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="18zmO2EUCOosI_JJl2A3" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T17:19:54.531Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="a-MbWWGWGuShWVTjkWtN" version="21.1.2" type="github">
   <diagram name="Страница 1" id="XMSDh3Ag2Xe2g-SVvd6X">
     <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iBDUrOjcWUxjxp99Zuq8-29" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iBDUrOjcWUxjxp99Zuq8-29" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iBDUrOjcWUxjxp99Zuq8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iBDUrOjcWUxjxp99Zuq8-31" target="iBDUrOjcWUxjxp99Zuq8-36">
