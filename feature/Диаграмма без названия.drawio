@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T11:48:44.028Z" agent="5.0 (Macintosh)" etag="W0-ADndXN9Gt3XIuvu28" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T11:49:19.537Z" agent="5.0 (Macintosh)" etag="J3sK8pk8KhveQGo6vikF" version="21.0.6" type="github">
   <diagram name="Страница 1" id="PqSwX68R4CPM-LeocaXJ">
     <mxGraphModel dx="2714" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,13 +63,13 @@
         <mxCell id="FlZzNcBc-agi4lt4ey15-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FlZzNcBc-agi4lt4ey15-16" target="FlZzNcBc-agi4lt4ey15-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-200" y="-480" />
-              <mxPoint x="170" y="-480" />
+              <mxPoint x="-200" y="-400" />
+              <mxPoint x="170" y="-400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FlZzNcBc-agi4lt4ey15-16" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CheckoutRepositoryImpl&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ _summaryDataFlow&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="-690" width="160" height="90" as="geometry" />
+          <mxGeometry x="-320" y="-530" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FlZzNcBc-agi4lt4ey15-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FlZzNcBc-agi4lt4ey15-18" target="FlZzNcBc-agi4lt4ey15-7">
           <mxGeometry relative="1" as="geometry" />
