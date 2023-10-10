@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T11:02:36.523Z" agent="5.0 (Macintosh)" etag="6-9Gk0rAS49y8cIwmt_p" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T11:10:15.353Z" agent="5.0 (Macintosh)" etag="AnT0DaFGdyLqaKPp1JxA" version="21.0.6" type="github">
   <diagram name="Страница 1" id="PqSwX68R4CPM-LeocaXJ">
     <mxGraphModel dx="954" dy="1811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,21 @@
         </mxCell>
         <mxCell id="FlZzNcBc-agi4lt4ey15-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;GetCheckoutBonusInfoItemsUseCase&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ CheckoutLoyaltyCardDataToCheckoutBonusScoresUiMapper&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="60" y="-370" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FlZzNcBc-agi4lt4ey15-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;WriteOffBonusesForCheckoutViewModel&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ SetWantToUseBonusesUseCase&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-40" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FlZzNcBc-agi4lt4ey15-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FlZzNcBc-agi4lt4ey15-12" target="FlZzNcBc-agi4lt4ey15-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlZzNcBc-agi4lt4ey15-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;SetWantToUseBonusesUseCaseImpl&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-200" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FlZzNcBc-agi4lt4ey15-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FlZzNcBc-agi4lt4ey15-14" target="FlZzNcBc-agi4lt4ey15-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlZzNcBc-agi4lt4ey15-14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CheckoutValidationManager&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ appliedBonusAmountFlow&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-560" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
