@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T05:56:52.486Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" etag="lGmXOh_49530PEhJzNRO" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T05:57:02.476Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" etag="kOLsJhFUSsmkfWdFYqgO" version="22.1.7" type="github">
   <diagram name="Страница — 1" id="BKeoi8arGAfsqAMdIyRO">
     <mxGraphModel dx="1405" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,10 +34,10 @@
             <mxPoint x="890" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5sW-IGkRng8ezyYUU3Sy-29" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="5sW-IGkRng8ezyYUU3Sy-29" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5sW-IGkRng8ezyYUU3Sy-20" target="5sW-IGkRng8ezyYUU3Sy-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="290" as="sourcePoint" />
-            <mxPoint x="860" y="290" as="targetPoint" />
+            <mxPoint x="540" y="150" as="sourcePoint" />
+            <mxPoint x="700" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5sW-IGkRng8ezyYUU3Sy-30" value="parent" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="5sW-IGkRng8ezyYUU3Sy-29">
