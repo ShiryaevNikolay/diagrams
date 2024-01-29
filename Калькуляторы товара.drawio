@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T11:10:04.703Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="N8fBptCU0q7UB5te7_15" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T11:10:10.134Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="nNI-yJcBIS4IBEbLzYXc" version="22.1.20" type="github">
   <diagram name="Страница — 1" id="lx8_eH_h-qr7zHX8Yf2P">
     <mxGraphModel dx="1194" dy="1811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="zyzg5PwT_4oI0MRd1xDY-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ProductCalcPageFragment&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zyzg5PwT_4oI0MRd1xDY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyzg5PwT_4oI0MRd1xDY-10" target="zyzg5PwT_4oI0MRd1xDY-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zyzg5PwT_4oI0MRd1xDY-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ProductCalcPageFragment&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="160" height="90" as="geometry" />
