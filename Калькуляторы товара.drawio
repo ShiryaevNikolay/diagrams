@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T11:12:22.329Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="etWRHMZy7JHRBi0j6UiS" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T11:12:59.170Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="yNGKn_NJqq6PJxYW5JKl" version="22.1.20" type="github">
   <diagram name="Страница — 1" id="lx8_eH_h-qr7zHX8Yf2P">
     <mxGraphModel dx="1194" dy="1811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,10 +14,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zyzg5PwT_4oI0MRd1xDY-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ProductCalcScenario&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ wallpaperCalcScenario: CalcScenario&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ laminateCalcScenario: CalcScenario&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-120" width="240" height="120" as="geometry" />
+          <mxGeometry x="160" y="-360" width="240" height="360" as="geometry" />
         </mxCell>
         <mxCell id="zyzg5PwT_4oI0MRd1xDY-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CalcScenario&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-340" width="200" height="140" as="geometry" />
+          <mxGeometry x="180" y="-540" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="zyzg5PwT_4oI0MRd1xDY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyzg5PwT_4oI0MRd1xDY-7" target="zyzg5PwT_4oI0MRd1xDY-8">
           <mxGeometry relative="1" as="geometry" />
@@ -44,21 +44,21 @@
           <mxGeometry x="320" y="320" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zyzg5PwT_4oI0MRd1xDY-16" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;WallpaperCalcScenario&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-520" width="160" height="80" as="geometry" />
+          <mxGeometry x="80" y="-720" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyzg5PwT_4oI0MRd1xDY-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;LaminateCalcScenario&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-520" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="-720" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyzg5PwT_4oI0MRd1xDY-20" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyzg5PwT_4oI0MRd1xDY-16" target="zyzg5PwT_4oI0MRd1xDY-3">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="130" y="-400" as="sourcePoint" />
-            <mxPoint x="290" y="-400" as="targetPoint" />
+            <mxPoint x="130" y="-600" as="sourcePoint" />
+            <mxPoint x="290" y="-600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zyzg5PwT_4oI0MRd1xDY-21" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyzg5PwT_4oI0MRd1xDY-17" target="zyzg5PwT_4oI0MRd1xDY-3">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="400" y="-420" as="sourcePoint" />
-            <mxPoint x="470" y="-320" as="targetPoint" />
+            <mxPoint x="400" y="-620" as="sourcePoint" />
+            <mxPoint x="470" y="-520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
