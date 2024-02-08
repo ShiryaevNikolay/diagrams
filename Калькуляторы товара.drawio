@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T15:46:03.781Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="yyt_G7VrCaruRdQcPjRF" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T15:47:06.775Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="TZcQIjVM9eg7bCjmix9G" version="23.0.2" type="github">
   <diagram name="Страница — 1" id="lx8_eH_h-qr7zHX8Yf2P">
-    <mxGraphModel dx="1592" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,8 +91,8 @@
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CalcFieldData : InputFieldData&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ type: CaclFieldType&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ &lt;b&gt;override&lt;/b&gt; title: String&lt;br&gt;+ &lt;b&gt;override &lt;/b&gt;placeholder: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ &lt;b&gt;override &lt;/b&gt;text: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ &lt;b&gt;override &lt;/b&gt;inputState: InputState&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ &lt;b&gt;override &lt;/b&gt;inputParams: InputParams&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1399" y="-640" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="tTH5ntBIsMBgR5iuR4k_-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;enum class LaminateFieldType : CalcFieldType&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ LENGTH&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ WIDTH&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="-800" width="320" height="120" as="geometry" />
+        <mxCell id="tTH5ntBIsMBgR5iuR4k_-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;enum LaminateFieldType : CalcFieldType&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ LENGTH&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ WIDTH&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="-800" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-12" target="tTH5ntBIsMBgR5iuR4k_-10">
           <mxGeometry relative="1" as="geometry" />
@@ -106,14 +106,17 @@
             <mxPoint x="1730" y="-760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tTH5ntBIsMBgR5iuR4k_-14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;enum class WallpaperFieldType : CalcFieldType&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ PERIMETER&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ HIGH&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ WIDTH&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;...&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2120" y="-800" width="320" height="160" as="geometry" />
+        <mxCell id="tTH5ntBIsMBgR5iuR4k_-14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;enum WallpaperFieldType : CalcFieldType&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ PERIMETER&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ HIGH&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ WIDTH&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;...&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="-800" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-17" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-14" target="tTH5ntBIsMBgR5iuR4k_-12">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="2150" y="-800" as="sourcePoint" />
             <mxPoint x="2205" y="-880" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tTH5ntBIsMBgR5iuR4k_-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;sealed &lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="-520" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
