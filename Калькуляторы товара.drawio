@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T16:25:37.685Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="WqeoBIeLPvozY_12nsYB" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T16:26:40.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="PITYhcPIT6E7uAmhjLdn" version="23.0.2" type="github">
   <diagram name="Страница — 1" id="lx8_eH_h-qr7zHX8Yf2P">
-    <mxGraphModel dx="1592" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3411" dy="3003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,22 +65,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;InputParams&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ maxLength: Int?&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ inputType: Int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ inputFilters: List&amp;lt;InputFilter&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="-760" width="200" height="120" as="geometry" />
+          <mxGeometry x="880" y="-480" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-2" target="tTH5ntBIsMBgR5iuR4k_-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;InputFieldData&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ title: String&lt;br&gt;+ placeholder: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ text: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ inputState: InputState&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ inputParams: InputParams&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="-560" width="200" height="160" as="geometry" />
+          <mxGeometry x="880" y="-280" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-5" target="tTH5ntBIsMBgR5iuR4k_-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;InputFieldAdapterDelegate&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ InputFieldData&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="-200" width="200" height="80" as="geometry" />
+          <mxGeometry x="880" y="80" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Fragment&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ state: State&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-200" width="280" height="80" as="geometry" />
+          <mxGeometry x="1200" y="80" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-9" target="tTH5ntBIsMBgR5iuR4k_-7">
           <mxGeometry relative="1" as="geometry" />
@@ -88,82 +88,82 @@
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-9" target="tTH5ntBIsMBgR5iuR4k_-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1610" y="-440" />
-              <mxPoint x="2000" y="-440" />
+              <mxPoint x="1410" y="-160" />
+              <mxPoint x="1800" y="-160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;State&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ fields: Map&amp;lt;CalcTab, List&amp;lt;CalcFieldData&amp;gt;&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ currentTab: CalcTab&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-400" width="280" height="120" as="geometry" />
+          <mxGeometry x="1200" y="-120" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-10" target="tTH5ntBIsMBgR5iuR4k_-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CalcFieldData : InputFieldData&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ type: CaclFieldType&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ &lt;b&gt;override&lt;/b&gt; title: String&lt;br&gt;+ &lt;b&gt;override &lt;/b&gt;placeholder: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ &lt;b&gt;override &lt;/b&gt;text: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ &lt;b&gt;override &lt;/b&gt;inputState: InputState&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ &lt;b&gt;override &lt;/b&gt;inputParams: InputParams&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1399" y="-640" width="280" height="160" as="geometry" />
+          <mxGeometry x="1199" y="-360" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;enum LaminateFieldType : CalcFieldType&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ LENGTH&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ WIDTH&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="-1000" width="280" height="120" as="geometry" />
+          <mxGeometry x="1040" y="-720" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-12" target="tTH5ntBIsMBgR5iuR4k_-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CalcFieldType&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="-760" width="200" height="40" as="geometry" />
+          <mxGeometry x="1240" y="-480" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-13" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-11" target="tTH5ntBIsMBgR5iuR4k_-12">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1530" y="-760" as="sourcePoint" />
-            <mxPoint x="1690" y="-760" as="targetPoint" />
+            <mxPoint x="1330" y="-480" as="sourcePoint" />
+            <mxPoint x="1490" y="-480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;enum WallpaperFieldType : CalcFieldType&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ PERIMETER&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ HIGH&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ WIDTH&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;...&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="-1000" width="280" height="120" as="geometry" />
+          <mxGeometry x="1400" y="-720" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-17" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-14" target="tTH5ntBIsMBgR5iuR4k_-12">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2110" y="-800" as="sourcePoint" />
-            <mxPoint x="2165" y="-880" as="targetPoint" />
+            <mxPoint x="1910" y="-520" as="sourcePoint" />
+            <mxPoint x="1965" y="-600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;LengthTab : CalcTab&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ &lt;b&gt;override&lt;/b&gt; tabTitleRes: Int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ type: LayingMethod&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1840.5" y="-200" width="160" height="80" as="geometry" />
+          <mxGeometry x="1640.5" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-23" target="tTH5ntBIsMBgR5iuR4k_-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CalcTab&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ tabTitleRes: Int&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1961" y="-360" width="119" height="80" as="geometry" />
+          <mxGeometry x="1761" y="-80" width="119" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-26" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;OneTab : CalcTab&lt;br&gt;&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="-200" width="160" height="40" as="geometry" />
+          <mxGeometry x="1840" y="80" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-27" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-22" target="tTH5ntBIsMBgR5iuR4k_-23">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1760" y="-210" as="sourcePoint" />
-            <mxPoint x="1925" y="-290" as="targetPoint" />
+            <mxPoint x="1560" y="70" as="sourcePoint" />
+            <mxPoint x="1725" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-28" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-26" target="tTH5ntBIsMBgR5iuR4k_-23">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2120" y="-240" as="sourcePoint" />
-            <mxPoint x="2221" y="-320" as="targetPoint" />
+            <mxPoint x="1920" y="40" as="sourcePoint" />
+            <mxPoint x="2021" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-29" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-10" target="tTH5ntBIsMBgR5iuR4k_-2">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1280" y="-670" as="sourcePoint" />
-            <mxPoint x="1445" y="-750" as="targetPoint" />
+            <mxPoint x="1080" y="-390" as="sourcePoint" />
+            <mxPoint x="1245" y="-470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-30" target="tTH5ntBIsMBgR5iuR4k_-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-30" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;WallpaperScenario&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ fieldsFlow: StateFlow&amp;lt;Map&amp;lt;CalcTab, List&amp;lt;CalcFieldData&amp;gt;&amp;gt;&amp;gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createFields(): Map&amp;lt;CalcTab, List&amp;lt;CalcFieldData&amp;gt;&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ handleTextChange(field: CalcFieldData, newText: String)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ makeRequest(&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; currectTab, calcTab,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; onSuccess: () -&amp;gt; Unit,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; onError: (error: BaseAppException) -&amp;gt; Unit&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- validate(currentTab: CalcTab)&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="-1000" width="360" height="200" as="geometry" />
+          <mxGeometry x="1880" y="-720" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-31" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ViewModel&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ calcScenario: ProductCalcScenario&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="-640" width="240" height="90" as="geometry" />
+          <mxGeometry x="1680" y="-360" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
