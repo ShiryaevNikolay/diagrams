@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T15:58:26.746Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="8DLxzG7FARRhUcKHw3eS" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T15:58:37.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="hGouofocPez4zFXDgcIi" version="23.0.2" type="github">
   <diagram name="Страница — 1" id="lx8_eH_h-qr7zHX8Yf2P">
     <mxGraphModel dx="1990" dy="2239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,27 +116,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;LengthTab : CalcTab&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ &lt;b&gt;override&lt;/b&gt; tabTitleRes: Int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ type: LayingMethod&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1840.5" y="-240" width="160" height="80" as="geometry" />
+          <mxGeometry x="1840.5" y="-200" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-23" target="tTH5ntBIsMBgR5iuR4k_-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CalcTab&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ tabTitleRes: Int&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1961" y="-400" width="119" height="80" as="geometry" />
+          <mxGeometry x="1961" y="-360" width="119" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-26" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;OneTab : CalcTab&lt;br&gt;&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="-240" width="160" height="40" as="geometry" />
+          <mxGeometry x="2040" y="-200" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-27" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-22" target="tTH5ntBIsMBgR5iuR4k_-23">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1760" y="-250" as="sourcePoint" />
-            <mxPoint x="1925" y="-330" as="targetPoint" />
+            <mxPoint x="1760" y="-210" as="sourcePoint" />
+            <mxPoint x="1925" y="-290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-28" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-26" target="tTH5ntBIsMBgR5iuR4k_-23">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2120" y="-280" as="sourcePoint" />
-            <mxPoint x="2221" y="-360" as="targetPoint" />
+            <mxPoint x="2120" y="-240" as="sourcePoint" />
+            <mxPoint x="2221" y="-320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-29" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-10" target="tTH5ntBIsMBgR5iuR4k_-2">
