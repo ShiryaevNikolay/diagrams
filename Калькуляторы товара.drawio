@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T15:49:27.724Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="K0PL55fR-Zjr0bjPI5H6" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T15:54:22.869Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="qb4AOs0fUMdtCwJ2zpFz" version="23.0.2" type="github">
   <diagram name="Страница — 1" id="lx8_eH_h-qr7zHX8Yf2P">
     <mxGraphModel dx="884" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,8 +82,8 @@
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-9" target="tTH5ntBIsMBgR5iuR4k_-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tTH5ntBIsMBgR5iuR4k_-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;State&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ fields: Map&amp;lt;CalcTab, List&amp;lt;CalcFieldData&amp;gt;&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="-400" width="360" height="200" as="geometry" />
+        <mxCell id="tTH5ntBIsMBgR5iuR4k_-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;State&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ fields: Map&amp;lt;CalcTab, List&amp;lt;CalcFieldData&amp;gt;&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ currentTab: CalcTab&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="-400" width="360" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-10" target="tTH5ntBIsMBgR5iuR4k_-9">
           <mxGeometry relative="1" as="geometry" />
