@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T15:54:22.869Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="qb4AOs0fUMdtCwJ2zpFz" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T15:54:28.082Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="y0Qyv7-nvwJrlRqgPyjV" version="23.0.2" type="github">
   <diagram name="Страница — 1" id="lx8_eH_h-qr7zHX8Yf2P">
     <mxGraphModel dx="884" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
           <mxGeometry x="760" y="-240" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Fragment&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ state: State&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="-120" width="440" height="320" as="geometry" />
+          <mxGeometry x="1320" y="-200" width="440" height="320" as="geometry" />
         </mxCell>
         <mxCell id="tTH5ntBIsMBgR5iuR4k_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tTH5ntBIsMBgR5iuR4k_-9" target="tTH5ntBIsMBgR5iuR4k_-7">
           <mxGeometry relative="1" as="geometry" />
