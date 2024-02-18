@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T06:45:37.755Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" version="22.1.21" etag="xKIbYAjfN65XCQExPw9D" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T07:00:14.372Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="BneHCGLolkPTJdbfE5rk" version="23.1.5" type="github">
   <diagram name="Страница — 1" id="q_AGxXsScHiTiwYIOIDt">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jDCPakJQnDDJDgwPnTOG-1" value="Графическое приложение" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jDCPakJQnDDJDgwPnTOG-2" value="Сервис" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jDCPakJQnDDJDgwPnTOG-3" value="Мобильное приложение" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="560" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
