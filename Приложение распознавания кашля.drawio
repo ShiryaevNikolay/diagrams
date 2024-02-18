@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T07:00:33.329Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="JfqVszqjY1NMeQWW_3kk" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T10:50:13.425Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="Vynnk_K0bK0HCw3QByla" version="23.1.5" type="github">
   <diagram name="Страница — 1" id="q_AGxXsScHiTiwYIOIDt">
     <mxGraphModel dx="954" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,12 @@
         </mxCell>
         <mxCell id="jDCPakJQnDDJDgwPnTOG-3" value="Мобильное приложение" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jDCPakJQnDDJDgwPnTOG-7" value="Начало" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="120" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jDCPakJQnDDJDgwPnTOG-8" value="Считывание звуковых данных" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="920" y="280" width="400" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
