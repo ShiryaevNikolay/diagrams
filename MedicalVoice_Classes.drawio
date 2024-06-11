@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T14:47:36.128Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="2MWBKbQC3ECsCTP19o7F" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T06:27:22.797Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="DpJSaIGbMZlMErpTy_u8" version="24.3.1" type="github">
   <diagram name="Страница — 1" id="bLYFQcRQQF4V_AAQSzA-">
-    <mxGraphModel dx="2726" dy="1860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,107 +129,107 @@
         <mxCell id="7F6UDzpmn1otM-s2ICzq-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7F6UDzpmn1otM-s2ICzq-52" target="7F6UDzpmn1otM-s2ICzq-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7F6UDzpmn1otM-s2ICzq-52" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Algoritms&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="1" vertex="1">
+        <mxCell id="7F6UDzpmn1otM-s2ICzq-52" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Algorithms&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="1" vertex="1">
           <mxGeometry x="920" y="40" width="960" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="QM8RLXD80Hp7oolp6s1l-1" target="QM8RLXD80Hp7oolp6s1l-4">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="QM8RLXD80Hp7oolp6s1l-1" target="QM8RLXD80Hp7oolp6s1l-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="QM8RLXD80Hp7oolp6s1l-1" target="QM8RLXD80Hp7oolp6s1l-5">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="QM8RLXD80Hp7oolp6s1l-1" target="QM8RLXD80Hp7oolp6s1l-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Пользователь&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Пользователь&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="400" y="1840" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Запустить систему мониторинга&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Запустить систему мониторинга&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="1580" width="370" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Остановить систему мониторинга&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Остановить систему мониторинга&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="2100" width="370" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeWidth=3;endArrow=open;endFill=0;endSize=20;" edge="1" parent="1" source="QM8RLXD80Hp7oolp6s1l-8" target="QM8RLXD80Hp7oolp6s1l-4">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeWidth=3;endArrow=open;endFill=0;endSize=20;" parent="1" source="QM8RLXD80Hp7oolp6s1l-8" target="QM8RLXD80Hp7oolp6s1l-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Включение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QM8RLXD80Hp7oolp6s1l-9">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Включение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QM8RLXD80Hp7oolp6s1l-9" vertex="1" connectable="0">
           <mxGeometry x="-0.0333" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeWidth=3;endSize=20;dashed=1;" edge="1" parent="1" source="QM8RLXD80Hp7oolp6s1l-8" target="QM8RLXD80Hp7oolp6s1l-5">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeWidth=3;endSize=20;dashed=1;" parent="1" source="QM8RLXD80Hp7oolp6s1l-8" target="QM8RLXD80Hp7oolp6s1l-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-31" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Включение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QM8RLXD80Hp7oolp6s1l-30">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-31" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Включение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QM8RLXD80Hp7oolp6s1l-30" vertex="1" connectable="0">
           <mxGeometry x="-0.2167" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Запустить графическое приложение&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Запустить графическое приложение&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="625" y="1840" width="400" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=3;endArrow=open;endFill=0;endSize=20;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QM8RLXD80Hp7oolp6s1l-10" target="QM8RLXD80Hp7oolp6s1l-4">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=3;endArrow=open;endFill=0;endSize=20;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QM8RLXD80Hp7oolp6s1l-10" target="QM8RLXD80Hp7oolp6s1l-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-15" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Включение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QM8RLXD80Hp7oolp6s1l-11">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-15" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Включение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QM8RLXD80Hp7oolp6s1l-11" vertex="1" connectable="0">
           <mxGeometry x="-0.0111" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Подобрать конфигурацию записи микрофона&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Подобрать конфигурацию записи микрофона&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1081" y="1400" width="370" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endSize=20;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="QM8RLXD80Hp7oolp6s1l-12" target="QM8RLXD80Hp7oolp6s1l-10">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endSize=20;dashed=1;endArrow=open;endFill=0;" parent="1" source="QM8RLXD80Hp7oolp6s1l-12" target="QM8RLXD80Hp7oolp6s1l-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-21" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Расширение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QM8RLXD80Hp7oolp6s1l-20">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-21" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Расширение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QM8RLXD80Hp7oolp6s1l-20" vertex="1" connectable="0">
           <mxGeometry x="-0.1241" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Выбрать частоту дискретизации&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Выбрать частоту дискретизации&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1721" y="1400" width="370" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;endSize=20;strokeWidth=3;dashed=1;endArrow=open;endFill=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QM8RLXD80Hp7oolp6s1l-16" target="QM8RLXD80Hp7oolp6s1l-10">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;endSize=20;strokeWidth=3;dashed=1;endArrow=open;endFill=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QM8RLXD80Hp7oolp6s1l-16" target="QM8RLXD80Hp7oolp6s1l-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-19" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Расширение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QM8RLXD80Hp7oolp6s1l-18">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-19" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Расширение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QM8RLXD80Hp7oolp6s1l-18" vertex="1" connectable="0">
           <mxGeometry x="-0.0341" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Выбрать разрядность квантования&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Выбрать разрядность квантования&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1561" y="1200" width="370" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;endSize=20;dashed=1;endArrow=open;endFill=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QM8RLXD80Hp7oolp6s1l-17" target="QM8RLXD80Hp7oolp6s1l-10">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;endSize=20;dashed=1;endArrow=open;endFill=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QM8RLXD80Hp7oolp6s1l-17" target="QM8RLXD80Hp7oolp6s1l-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Расширение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QM8RLXD80Hp7oolp6s1l-22">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Расширение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QM8RLXD80Hp7oolp6s1l-22" vertex="1" connectable="0">
           <mxGeometry x="-0.093" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Выбрать количество кластеров&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Выбрать количество кластеров&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1561" y="1600" width="370" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endSize=20;endArrow=open;endFill=0;dashed=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QM8RLXD80Hp7oolp6s1l-25" target="QM8RLXD80Hp7oolp6s1l-4">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endSize=20;endArrow=open;endFill=0;dashed=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QM8RLXD80Hp7oolp6s1l-25" target="QM8RLXD80Hp7oolp6s1l-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-27" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Включение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QM8RLXD80Hp7oolp6s1l-26">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-27" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Включение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QM8RLXD80Hp7oolp6s1l-26" vertex="1" connectable="0">
           <mxGeometry x="-0.0495" y="-1" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Запустить сервис для мониторинга&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Запустить сервис для мониторинга&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1081" y="1760" width="370" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endSize=20;endArrow=open;endFill=0;dashed=1;strokeWidth=3;" edge="1" parent="1" source="QM8RLXD80Hp7oolp6s1l-32" target="QM8RLXD80Hp7oolp6s1l-5">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endSize=20;endArrow=open;endFill=0;dashed=1;strokeWidth=3;" parent="1" source="QM8RLXD80Hp7oolp6s1l-32" target="QM8RLXD80Hp7oolp6s1l-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-34" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Включение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QM8RLXD80Hp7oolp6s1l-33">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-34" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;Включение&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QM8RLXD80Hp7oolp6s1l-33" vertex="1" connectable="0">
           <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QM8RLXD80Hp7oolp6s1l-32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Остановить сервис для мониторинга&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QM8RLXD80Hp7oolp6s1l-32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Остановить сервис для мониторинга&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1284" y="2100" width="370" height="160" as="geometry" />
         </mxCell>
       </root>
